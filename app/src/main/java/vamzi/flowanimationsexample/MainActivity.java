@@ -11,6 +11,8 @@ import android.widget.TextView;
 import org.w3c.dom.Text;
 
 import vamzi.flowanimations.SlideInBottom;
+import vamzi.flowanimations.SlideInLeft;
+import vamzi.flowanimations.SlideInUp;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -19,8 +21,12 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         TextView tv=(TextView)findViewById(R.id.tv);
-        SlideInBottom slide=new SlideInBottom(tv,1000);
-        slide.animate();
+        TranslateAnimation anim = new TranslateAnimation(Animation.RELATIVE_TO_SELF, 0.0f,
+                Animation.RELATIVE_TO_SELF, 0.0f, Animation.RELATIVE_TO_SELF, 0.0f,
+                Animation.RELATIVE_TO_SELF, -75.0f);
+        anim.setDuration(5000);
+        anim.setFillAfter( true );
+        tv.startAnimation(anim);
 
     }
 

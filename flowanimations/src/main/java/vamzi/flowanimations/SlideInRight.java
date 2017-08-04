@@ -16,10 +16,10 @@ public class SlideInRight extends Animation {
     }
 
     public void animate(){
-        TranslateAnimation anim = new TranslateAnimation(Animation.RELATIVE_TO_PARENT, 2.0f,
-                Animation.RELATIVE_TO_PARENT, 0.0f, Animation.RELATIVE_TO_PARENT, 0.0f,
-                Animation.RELATIVE_TO_PARENT, 0.0f);
-        anim.setDuration(1000);
+        TranslateAnimation anim = new TranslateAnimation(Animation.RELATIVE_TO_SELF, 75.0f,
+                Animation.RELATIVE_TO_SELF, 0.0f, Animation.RELATIVE_TO_SELF, 0.0f,
+                Animation.RELATIVE_TO_SELF, 0.0f);
+        anim.setDuration(duration);
         anim.setFillAfter( true );
         view.startAnimation(anim);
     }

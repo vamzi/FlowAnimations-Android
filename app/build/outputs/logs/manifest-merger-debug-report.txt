@@ -15,7 +15,7 @@ ADDED from C:\Users\kotha\OneDrive\Documents\FlowAnimationsExample\app\src\main\
 		INJECTED from C:\Users\kotha\OneDrive\Documents\FlowAnimationsExample\app\src\main\AndroidManifest.xml
 application
 ADDED from C:\Users\kotha\OneDrive\Documents\FlowAnimationsExample\app\src\main\AndroidManifest.xml:5:5-19:19
-MERGED from [com.github.vamzi:FlowAnimations-Android:0.1.0] C:\Users\kotha\.android\build-cache\80d1a46583c2229ac491d759d5961e387e18b4ff\output\AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.vamzi:FlowAnimations-Android:0.1.1] C:\Users\kotha\.android\build-cache\7f7d6c20e669d8d317097b197346a0b06a71b3e2\output\AndroidManifest.xml:11:5-15:19
 MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\kotha\.android\build-cache\6a3388dd2a42314838467d224a8cad3ecc020f66\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-v4:25.3.1] C:\Users\kotha\.android\build-cache\6574fdafebe36af31cb6d91e9243e064d5e80687\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\kotha\.android\build-cache\4e64e54994877136a0e15d5ce6a68cb9fd021118\output\AndroidManifest.xml:29:5-20
@@ -54,7 +54,7 @@ ADDED from C:\Users\kotha\OneDrive\Documents\FlowAnimationsExample\app\src\main\
 		ADDED from C:\Users\kotha\OneDrive\Documents\FlowAnimationsExample\app\src\main\AndroidManifest.xml:16:27-74
 uses-sdk
 INJECTED from C:\Users\kotha\OneDrive\Documents\FlowAnimationsExample\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.github.vamzi:FlowAnimations-Android:0.1.0] C:\Users\kotha\.android\build-cache\80d1a46583c2229ac491d759d5961e387e18b4ff\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.vamzi:FlowAnimations-Android:0.1.1] C:\Users\kotha\.android\build-cache\7f7d6c20e669d8d317097b197346a0b06a71b3e2\output\AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\kotha\.android\build-cache\6a3388dd2a42314838467d224a8cad3ecc020f66\output\AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support:support-v4:25.3.1] C:\Users\kotha\.android\build-cache\6574fdafebe36af31cb6d91e9243e064d5e80687\output\AndroidManifest.xml:21:5-23:54
 MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\kotha\.android\build-cache\4e64e54994877136a0e15d5ce6a68cb9fd021118\output\AndroidManifest.xml:21:5-23:60

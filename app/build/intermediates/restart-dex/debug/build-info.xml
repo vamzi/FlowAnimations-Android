@@ -6,29 +6,23 @@
     density="xxhdpi"
     format="10"
     plugin-version="2.3.3"
-    timestamp="1501829932762"
+    timestamp="1501838397311"
     token="8354673337708335199"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="1563" />
+        duration="110" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="151" />
+        duration="18" />
     <task
         name="verifier"
-        duration="43" />
+        duration="3" />
 
-    <artifact
-        location="C:\Users\kotha\OneDrive\Documents\FlowAnimationsExample\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
-        type="SPLIT" />
-    <artifact
-        location="C:\Users\kotha\OneDrive\Documents\FlowAnimationsExample\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
-        type="SPLIT" />
     <artifact
         location="C:\Users\kotha\OneDrive\Documents\FlowAnimationsExample\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
         type="SPLIT" />
@@ -38,19 +32,22 @@
 
     <build
         build-mode="FULL"
-        timestamp="1501824465777"
+        timestamp="1501837072261"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="C:\Users\kotha\OneDrive\Documents\FlowAnimationsExample\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\kotha\OneDrive\Documents\FlowAnimationsExample\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+            location="C:\Users\kotha\OneDrive\Documents\FlowAnimationsExample\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
             type="SPLIT" />
         <artifact
             location="C:\Users\kotha\OneDrive\Documents\FlowAnimationsExample\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\kotha\OneDrive\Documents\FlowAnimationsExample\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+            location="C:\Users\kotha\OneDrive\Documents\FlowAnimationsExample\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\kotha\OneDrive\Documents\FlowAnimationsExample\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
             type="SPLIT" />
         <artifact
             location="C:\Users\kotha\OneDrive\Documents\FlowAnimationsExample\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
@@ -59,13 +56,10 @@
             location="C:\Users\kotha\OneDrive\Documents\FlowAnimationsExample\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\kotha\OneDrive\Documents\FlowAnimationsExample\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+            location="C:\Users\kotha\OneDrive\Documents\FlowAnimationsExample\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
             type="SPLIT" />
         <artifact
             location="C:\Users\kotha\OneDrive\Documents\FlowAnimationsExample\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\kotha\OneDrive\Documents\FlowAnimationsExample\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
             type="SPLIT" />
         <artifact
             location="C:\Users\kotha\OneDrive\Documents\FlowAnimationsExample\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
@@ -79,7 +73,7 @@
     </build>
     <build
         build-mode="COLD"
-        timestamp="1501825608280"
+        timestamp="1501838331246"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="C:\Users\kotha\OneDrive\Documents\FlowAnimationsExample\app\build\outputs\apk\app-debug.apk"
@@ -87,14 +81,8 @@
     </build>
     <build
         build-mode="COLD"
-        timestamp="1501829932762"
+        timestamp="1501838397311"
         verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="C:\Users\kotha\OneDrive\Documents\FlowAnimationsExample\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\kotha\OneDrive\Documents\FlowAnimationsExample\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
-            type="SPLIT" />
         <artifact
             location="C:\Users\kotha\OneDrive\Documents\FlowAnimationsExample\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
             type="SPLIT" />
