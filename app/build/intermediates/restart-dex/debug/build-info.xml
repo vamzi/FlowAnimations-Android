@@ -6,23 +6,29 @@
     density="xxhdpi"
     format="10"
     plugin-version="2.3.3"
-    timestamp="1501825608280"
+    timestamp="1501829932762"
     token="8354673337708335199"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="121" />
+        duration="1563" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="19" />
+        duration="151" />
     <task
         name="verifier"
-        duration="2" />
+        duration="43" />
 
+    <artifact
+        location="C:\Users\kotha\OneDrive\Documents\FlowAnimationsExample\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\kotha\OneDrive\Documents\FlowAnimationsExample\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+        type="SPLIT" />
     <artifact
         location="C:\Users\kotha\OneDrive\Documents\FlowAnimationsExample\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
         type="SPLIT" />
@@ -73,7 +79,7 @@
     </build>
     <build
         build-mode="COLD"
-        timestamp="1501825561406"
+        timestamp="1501825608280"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="C:\Users\kotha\OneDrive\Documents\FlowAnimationsExample\app\build\outputs\apk\app-debug.apk"
@@ -81,8 +87,14 @@
     </build>
     <build
         build-mode="COLD"
-        timestamp="1501825608280"
+        timestamp="1501829932762"
         verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="C:\Users\kotha\OneDrive\Documents\FlowAnimationsExample\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\kotha\OneDrive\Documents\FlowAnimationsExample\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            type="SPLIT" />
         <artifact
             location="C:\Users\kotha\OneDrive\Documents\FlowAnimationsExample\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
             type="SPLIT" />

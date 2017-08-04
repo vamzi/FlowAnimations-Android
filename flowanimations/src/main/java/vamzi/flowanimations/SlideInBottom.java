@@ -4,9 +4,6 @@ import android.view.View;
 import android.view.animation.Animation;
 import android.view.animation.TranslateAnimation;
 
-/**
- * Created by kotha on 8/4/2017.
- */
 
 public class SlideInBottom extends Animation {
     View view;
