@@ -66,7 +66,7 @@ public class FlowAnimations extends Animation {
     }
 
     public void playOn(View v){
-        view=v;
+        this.view=v;
     }
 
     public void setDelay(long delay) {
