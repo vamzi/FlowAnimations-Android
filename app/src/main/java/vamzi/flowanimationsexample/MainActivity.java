@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         TextView tv=(TextView)findViewById(R.id.tv);
-        new FlowAnimations(AnimationStyle.SLIDE_IN_BOTTOM);
+        new FlowAnimations(AnimationStyle.SLIDE_IN__RIGHT);
         TranslateAnimation anim = new TranslateAnimation(Animation.RELATIVE_TO_SELF, 0.0f,
                 Animation.RELATIVE_TO_SELF, 0.0f, Animation.RELATIVE_TO_SELF, 30.0f,
                 Animation.RELATIVE_TO_SELF, 0.0f);

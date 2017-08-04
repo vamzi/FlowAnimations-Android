@@ -10,17 +10,16 @@ import android.view.animation.TranslateAnimation;
  */
 
 public class FlowAnimations extends Animation {
-    private int style;
+    private AnimationStyle style;
     private long duration;
     private static long delay;
     private static View view;
     private static TranslateAnimation anim;
-    public FlowAnimations(int animation_style){
+    public FlowAnimations(AnimationStyle animation_style){
         style=animation_style;
         duration=1000;
         delay=0;
-        AnimationStyle animStyle = AnimationStyle.values()[style];
-        switch (animStyle){
+        switch (style){
             case SLIDE_IN_BOTTOM:
                 anim = new TranslateAnimation(Animation.RELATIVE_TO_SELF, 0.0f,
                         Animation.RELATIVE_TO_SELF, 0.0f, Animation.RELATIVE_TO_SELF, 30.0f,
