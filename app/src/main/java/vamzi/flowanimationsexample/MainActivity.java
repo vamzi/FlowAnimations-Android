@@ -7,6 +7,8 @@ import android.view.animation.Animation;
 import android.view.animation.TranslateAnimation;
 import android.widget.TextView;
 
+import vamzi.flowanimations.AnimationStyle;
+import vamzi.flowanimations.FlowAnimations;
 
 
 public class MainActivity extends AppCompatActivity {
@@ -16,6 +18,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         TextView tv=(TextView)findViewById(R.id.tv);
+        new FlowAnimations(AnimationStyle.SLIDE_IN_BOTTOM);
         TranslateAnimation anim = new TranslateAnimation(Animation.RELATIVE_TO_SELF, 0.0f,
                 Animation.RELATIVE_TO_SELF, 0.0f, Animation.RELATIVE_TO_SELF, 30.0f,
                 Animation.RELATIVE_TO_SELF, 0.0f);

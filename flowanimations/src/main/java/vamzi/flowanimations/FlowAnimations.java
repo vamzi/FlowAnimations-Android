@@ -15,7 +15,7 @@ public class FlowAnimations extends Animation {
     private static long delay;
     private static View view;
     private static TranslateAnimation anim;
-    FlowAnimations(int animation_style){
+    public FlowAnimations(int animation_style){
         style=animation_style;
         duration=1000;
         delay=0;
