@@ -8,9 +8,8 @@ import android.view.animation.TranslateAnimation;
 /**
  * Created by kotha on 8/4/2017.
  */
-
 public class FlowAnimations extends Animation {
-    private  AnimationStyle style;
+    private AnimationStyle style;
     private long duration;
     private  long delay;
     private  View view;
@@ -74,18 +73,13 @@ public class FlowAnimations extends Animation {
     }
 
     public void setDuration(long duration) {
-        this.duration = duration;
+        anim.setDuration(duration);
     }
 
     public  void animate(){
-        Handler h = new Handler();
-        h.postDelayed(new Runnable() {
-            @Override
-            public void run() {
-                anim.setFillAfter( true );
-               view.startAnimation(anim);
-            }
-        },delay);
+        anim.setFillAfter(true);
+        view.startAnimation(anim);
+
     }
 
 
