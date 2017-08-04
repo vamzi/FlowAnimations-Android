@@ -10,12 +10,12 @@ import android.view.animation.TranslateAnimation;
  */
 
 public class FlowAnimations extends Animation {
-    private AnimationStyle style;
+    private  AnimationStyle style;
     private long duration;
-    private static long delay;
-    private static View view;
-    private static TranslateAnimation anim;
-    public FlowAnimations(AnimationStyle animation_style){
+    private  long delay;
+    private  View view;
+    private  TranslateAnimation anim;
+    public  FlowAnimations(AnimationStyle animation_style){
         style=animation_style;
         duration=1000;
         delay=0;
@@ -69,15 +69,15 @@ public class FlowAnimations extends Animation {
         view=v;
     }
 
-    public static void setDelay(long delay) {
-        FlowAnimations.delay = delay;
+    public void setDelay(long delay) {
+        this.delay = delay;
     }
 
     public void setDuration(long duration) {
         this.duration = duration;
     }
 
-    public static void animate(){
+    public  void animate(){
         Handler h = new Handler();
         h.postDelayed(new Runnable() {
             @Override
