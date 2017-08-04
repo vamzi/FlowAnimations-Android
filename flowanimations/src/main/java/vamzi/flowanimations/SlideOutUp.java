@@ -21,7 +21,7 @@ public class SlideOutUp extends Animation {
     public void animate(){
         TranslateAnimation anim = new TranslateAnimation(Animation.RELATIVE_TO_SELF, 0.0f,
                 Animation.RELATIVE_TO_SELF, 0.0f, Animation.RELATIVE_TO_SELF, 0.0f,
-                Animation.RELATIVE_TO_SELF, -75.0f);
+                Animation.RELATIVE_TO_SELF, -30.0f);
         anim.setDuration(duration);
         anim.setFillAfter( true );
         view.startAnimation(anim);}

@@ -8,11 +8,6 @@ import android.view.animation.TranslateAnimation;
 import android.widget.TextView;
 
 
-import org.w3c.dom.Text;
-
-import vamzi.flowanimations.SlideInBottom;
-import vamzi.flowanimations.SlideInLeft;
-import vamzi.flowanimations.SlideInUp;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -22,9 +17,9 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         TextView tv=(TextView)findViewById(R.id.tv);
         TranslateAnimation anim = new TranslateAnimation(Animation.RELATIVE_TO_SELF, 0.0f,
-                Animation.RELATIVE_TO_SELF, 0.0f, Animation.RELATIVE_TO_SELF, 0.0f,
-                Animation.RELATIVE_TO_SELF, -75.0f);
-        anim.setDuration(5000);
+                Animation.RELATIVE_TO_SELF, 0.0f, Animation.RELATIVE_TO_SELF, 30.0f,
+                Animation.RELATIVE_TO_SELF, 0.0f);
+        anim.setDuration(3000);
         anim.setFillAfter( true );
         tv.startAnimation(anim);
 
