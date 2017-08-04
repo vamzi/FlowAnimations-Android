@@ -7,7 +7,7 @@ package vamzi.flowanimations;
 public enum AnimationStyle {
     SLIDE_IN_BOTTOM,
     SLIDE_IN_UP,
-    SLIDE_IN__RIGHT,
+    SLIDE_IN_RIGHT,
     SLIDE_IN_LEFT,
     SLIDE_OUT_BOTTOM,
     SLIDE_OUT_UP,

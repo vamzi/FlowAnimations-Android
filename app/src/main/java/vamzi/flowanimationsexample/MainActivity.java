@@ -18,16 +18,10 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         TextView tv=(TextView)findViewById(R.id.tv);
-        FlowAnimations fn=new FlowAnimations(AnimationStyle.SLIDE_IN__RIGHT);
-        fn.setDuration(1000);
+        FlowAnimations  fn=new FlowAnimations(AnimationStyle.SLIDE_IN_UP);
+        fn.setDuration(5000);
         fn.playOn(tv);
-
-        TranslateAnimation anim = new TranslateAnimation(Animation.RELATIVE_TO_SELF, 0.0f,
-                Animation.RELATIVE_TO_SELF, 0.0f, Animation.RELATIVE_TO_SELF, 30.0f,
-                Animation.RELATIVE_TO_SELF, 0.0f);
-        anim.setDuration(3000);
-        anim.setFillAfter( true );
-        tv.startAnimation(anim);
+        fn.animate();
 
     }
 

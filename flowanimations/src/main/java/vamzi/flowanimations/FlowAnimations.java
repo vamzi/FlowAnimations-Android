@@ -30,7 +30,7 @@ public class FlowAnimations extends Animation {
                         Animation.RELATIVE_TO_SELF, 0.0f, Animation.RELATIVE_TO_SELF, -30.0f,
                         Animation.RELATIVE_TO_SELF, 0.0f);
                 break;
-            case SLIDE_IN__RIGHT:
+            case SLIDE_IN_RIGHT:
                 anim = new TranslateAnimation(Animation.RELATIVE_TO_SELF, 30.0f,
                         Animation.RELATIVE_TO_SELF, 0.0f, Animation.RELATIVE_TO_SELF, 0.0f,
                         Animation.RELATIVE_TO_SELF, 0.0f);
@@ -82,6 +82,7 @@ public class FlowAnimations extends Animation {
         h.postDelayed(new Runnable() {
             @Override
             public void run() {
+                anim.setFillAfter( true );
                view.startAnimation(anim);
             }
         },delay);
