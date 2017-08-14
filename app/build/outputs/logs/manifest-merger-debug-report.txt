@@ -15,6 +15,7 @@ ADDED from C:\Users\kotha\OneDrive\Documents\FlowAnimationsExample\app\src\main\
 		INJECTED from C:\Users\kotha\OneDrive\Documents\FlowAnimationsExample\app\src\main\AndroidManifest.xml
 application
 ADDED from C:\Users\kotha\OneDrive\Documents\FlowAnimationsExample\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.github.vamzi:FlowAnimations-Android:0.1.8] C:\Users\kotha\.android\build-cache\9c5e47c8275219ea2060891cd8880b68c9417caf\output\AndroidManifest.xml:11:5-15:19
 MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\kotha\.android\build-cache\6a3388dd2a42314838467d224a8cad3ecc020f66\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-v4:25.3.1] C:\Users\kotha\.android\build-cache\6574fdafebe36af31cb6d91e9243e064d5e80687\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\kotha\.android\build-cache\4e64e54994877136a0e15d5ce6a68cb9fd021118\output\AndroidManifest.xml:29:5-20
@@ -24,7 +25,7 @@ MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\kotha\.andr
 MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\kotha\.android\build-cache\01152194fdc608384e62eb2c53d406301940c54d\output\AndroidManifest.xml:26:5-20
 MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\kotha\.android\build-cache\202ffe4f55609bf4b5519970b83841af92211154\output\AndroidManifest.xml:26:5-20
 MERGED from [com.android.support:support-compat:25.3.1] C:\Users\kotha\.android\build-cache\70b873baa7011a512588572283b8bbd7cebaf43d\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\kotha\.android\build-cache\0876d489e267370f034c73882f0581ebab899664\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\kotha\.android\build-cache\bf96807ac9adb49394958969cf1931415eb75562\output\AndroidManifest.xml:9:5-20
 	android:label
 		ADDED from C:\Users\kotha\OneDrive\Documents\FlowAnimationsExample\app\src\main\AndroidManifest.xml:8:9-41
 	android:supportsRtl
@@ -53,6 +54,7 @@ ADDED from C:\Users\kotha\OneDrive\Documents\FlowAnimationsExample\app\src\main\
 		ADDED from C:\Users\kotha\OneDrive\Documents\FlowAnimationsExample\app\src\main\AndroidManifest.xml:16:27-74
 uses-sdk
 INJECTED from C:\Users\kotha\OneDrive\Documents\FlowAnimationsExample\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.github.vamzi:FlowAnimations-Android:0.1.8] C:\Users\kotha\.android\build-cache\9c5e47c8275219ea2060891cd8880b68c9417caf\output\AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\kotha\.android\build-cache\6a3388dd2a42314838467d224a8cad3ecc020f66\output\AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support:support-v4:25.3.1] C:\Users\kotha\.android\build-cache\6574fdafebe36af31cb6d91e9243e064d5e80687\output\AndroidManifest.xml:21:5-23:54
 MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\kotha\.android\build-cache\4e64e54994877136a0e15d5ce6a68cb9fd021118\output\AndroidManifest.xml:21:5-23:60
@@ -62,7 +64,7 @@ MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\kotha\.andr
 MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\kotha\.android\build-cache\01152194fdc608384e62eb2c53d406301940c54d\output\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\kotha\.android\build-cache\202ffe4f55609bf4b5519970b83841af92211154\output\AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:support-compat:25.3.1] C:\Users\kotha\.android\build-cache\70b873baa7011a512588572283b8bbd7cebaf43d\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\kotha\.android\build-cache\0876d489e267370f034c73882f0581ebab899664\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\kotha\.android\build-cache\bf96807ac9adb49394958969cf1931415eb75562\output\AndroidManifest.xml:5:5-7:41
 	tools:overrideLibrary
 		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\kotha\.android\build-cache\6a3388dd2a42314838467d224a8cad3ecc020f66\output\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
