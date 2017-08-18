@@ -5099,7 +5099,7 @@
                     "startOffset": 44272,
                     "endLine": 453,
                     "endColumn": 12,
-                    "endOffset": 44586
+                    "endOffset": 44584
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\OneDrive\\Documents\\FlowAnimationsExample\\app\\src\\main\\res\\values\\styles.xml",
@@ -5109,7 +5109,7 @@
                         "startOffset": 57,
                         "endLine": 8,
                         "endColumn": 12,
-                        "endOffset": 376
+                        "endOffset": 374
                     }
                 }
             },
@@ -5117,10 +5117,10 @@
                 "to": {
                     "startLine": 454,
                     "startColumn": 4,
-                    "startOffset": 44591,
+                    "startOffset": 44589,
                     "endLine": 460,
                     "endColumn": 12,
-                    "endOffset": 45087
+                    "endOffset": 45085
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -5138,9 +5138,9 @@
                 "to": {
                     "startLine": 461,
                     "startColumn": 4,
-                    "startOffset": 45092,
+                    "startOffset": 45090,
                     "endColumn": 88,
-                    "endOffset": 45176
+                    "endOffset": 45174
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -5157,10 +5157,10 @@
                 "to": {
                     "startLine": 462,
                     "startColumn": 4,
-                    "startOffset": 45181,
+                    "startOffset": 45179,
                     "endLine": 465,
                     "endColumn": 12,
-                    "endOffset": 45423
+                    "endOffset": 45421
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -5178,10 +5178,10 @@
                 "to": {
                     "startLine": 466,
                     "startColumn": 4,
-                    "startOffset": 45428,
+                    "startOffset": 45426,
                     "endLine": 469,
                     "endColumn": 12,
-                    "endOffset": 45704
+                    "endOffset": 45702
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -5199,10 +5199,10 @@
                 "to": {
                     "startLine": 470,
                     "startColumn": 4,
-                    "startOffset": 45709,
+                    "startOffset": 45707,
                     "endLine": 474,
                     "endColumn": 12,
-                    "endOffset": 45989
+                    "endOffset": 45987
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -5220,10 +5220,10 @@
                 "to": {
                     "startLine": 475,
                     "startColumn": 4,
-                    "startOffset": 45994,
+                    "startOffset": 45992,
                     "endLine": 480,
                     "endColumn": 12,
-                    "endOffset": 46382
+                    "endOffset": 46380
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -5241,10 +5241,10 @@
                 "to": {
                     "startLine": 481,
                     "startColumn": 4,
-                    "startOffset": 46387,
+                    "startOffset": 46385,
                     "endLine": 487,
                     "endColumn": 12,
-                    "endOffset": 46859
+                    "endOffset": 46857
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -5262,10 +5262,10 @@
                 "to": {
                     "startLine": 488,
                     "startColumn": 4,
-                    "startOffset": 46864,
+                    "startOffset": 46862,
                     "endLine": 491,
                     "endColumn": 12,
-                    "endOffset": 47081
+                    "endOffset": 47079
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -5283,10 +5283,10 @@
                 "to": {
                     "startLine": 492,
                     "startColumn": 4,
-                    "startOffset": 47086,
+                    "startOffset": 47084,
                     "endLine": 495,
                     "endColumn": 12,
-                    "endOffset": 47303
+                    "endOffset": 47301
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -5304,10 +5304,10 @@
                 "to": {
                     "startLine": 496,
                     "startColumn": 4,
-                    "startOffset": 47308,
+                    "startOffset": 47306,
                     "endLine": 500,
                     "endColumn": 12,
-                    "endOffset": 47571
+                    "endOffset": 47569
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -5325,10 +5325,10 @@
                 "to": {
                     "startLine": 501,
                     "startColumn": 4,
-                    "startOffset": 47576,
+                    "startOffset": 47574,
                     "endLine": 504,
                     "endColumn": 12,
-                    "endOffset": 47798
+                    "endOffset": 47796
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -5346,10 +5346,10 @@
                 "to": {
                     "startLine": 505,
                     "startColumn": 4,
-                    "startOffset": 47803,
+                    "startOffset": 47801,
                     "endLine": 508,
                     "endColumn": 12,
-                    "endOffset": 48028
+                    "endOffset": 48026
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -5367,10 +5367,10 @@
                 "to": {
                     "startLine": 509,
                     "startColumn": 4,
-                    "startOffset": 48033,
+                    "startOffset": 48031,
                     "endLine": 512,
                     "endColumn": 12,
-                    "endOffset": 48258
+                    "endOffset": 48256
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -5388,10 +5388,10 @@
                 "to": {
                     "startLine": 513,
                     "startColumn": 4,
-                    "startOffset": 48263,
+                    "startOffset": 48261,
                     "endLine": 516,
                     "endColumn": 12,
-                    "endOffset": 48488
+                    "endOffset": 48486
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -5409,10 +5409,10 @@
                 "to": {
                     "startLine": 517,
                     "startColumn": 4,
-                    "startOffset": 48493,
+                    "startOffset": 48491,
                     "endLine": 520,
                     "endColumn": 12,
-                    "endOffset": 48718
+                    "endOffset": 48716
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -5430,10 +5430,10 @@
                 "to": {
                     "startLine": 521,
                     "startColumn": 4,
-                    "startOffset": 48723,
+                    "startOffset": 48721,
                     "endLine": 524,
                     "endColumn": 12,
-                    "endOffset": 48945
+                    "endOffset": 48943
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -5451,10 +5451,10 @@
                 "to": {
                     "startLine": 525,
                     "startColumn": 4,
-                    "startOffset": 48950,
+                    "startOffset": 48948,
                     "endLine": 528,
                     "endColumn": 12,
-                    "endOffset": 49184
+                    "endOffset": 49182
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -5472,10 +5472,10 @@
                 "to": {
                     "startLine": 529,
                     "startColumn": 4,
-                    "startOffset": 49189,
+                    "startOffset": 49187,
                     "endLine": 532,
                     "endColumn": 12,
-                    "endOffset": 49410
+                    "endOffset": 49408
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -5493,10 +5493,10 @@
                 "to": {
                     "startLine": 533,
                     "startColumn": 4,
-                    "startOffset": 49415,
+                    "startOffset": 49413,
                     "endLine": 536,
                     "endColumn": 12,
-                    "endOffset": 49655
+                    "endOffset": 49653
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -5514,10 +5514,10 @@
                 "to": {
                     "startLine": 537,
                     "startColumn": 4,
-                    "startOffset": 49660,
+                    "startOffset": 49658,
                     "endLine": 540,
                     "endColumn": 12,
-                    "endOffset": 49885
+                    "endOffset": 49883
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -5535,10 +5535,10 @@
                 "to": {
                     "startLine": 541,
                     "startColumn": 4,
-                    "startOffset": 49890,
+                    "startOffset": 49888,
                     "endLine": 544,
                     "endColumn": 12,
-                    "endOffset": 50133
+                    "endOffset": 50131
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -5556,10 +5556,10 @@
                 "to": {
                     "startLine": 545,
                     "startColumn": 4,
-                    "startOffset": 50138,
+                    "startOffset": 50136,
                     "endLine": 548,
                     "endColumn": 12,
-                    "endOffset": 50352
+                    "endOffset": 50350
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -5577,10 +5577,10 @@
                 "to": {
                     "startLine": 549,
                     "startColumn": 4,
-                    "startOffset": 50357,
+                    "startOffset": 50355,
                     "endLine": 553,
                     "endColumn": 12,
-                    "endOffset": 50635
+                    "endOffset": 50633
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -5598,10 +5598,10 @@
                 "to": {
                     "startLine": 554,
                     "startColumn": 4,
-                    "startOffset": 50640,
+                    "startOffset": 50638,
                     "endLine": 557,
                     "endColumn": 12,
-                    "endOffset": 50843
+                    "endOffset": 50841
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -5619,10 +5619,10 @@
                 "to": {
                     "startLine": 558,
                     "startColumn": 4,
-                    "startOffset": 50848,
+                    "startOffset": 50846,
                     "endLine": 560,
                     "endColumn": 12,
-                    "endOffset": 50974
+                    "endOffset": 50972
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -5640,10 +5640,10 @@
                 "to": {
                     "startLine": 561,
                     "startColumn": 4,
-                    "startOffset": 50979,
+                    "startOffset": 50977,
                     "endLine": 564,
                     "endColumn": 12,
-                    "endOffset": 51201
+                    "endOffset": 51199
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -5661,10 +5661,10 @@
                 "to": {
                     "startLine": 565,
                     "startColumn": 4,
-                    "startOffset": 51206,
+                    "startOffset": 51204,
                     "endLine": 568,
                     "endColumn": 12,
-                    "endOffset": 51447
+                    "endOffset": 51445
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -5682,10 +5682,10 @@
                 "to": {
                     "startLine": 569,
                     "startColumn": 4,
-                    "startOffset": 51452,
+                    "startOffset": 51450,
                     "endLine": 572,
                     "endColumn": 12,
-                    "endOffset": 51672
+                    "endOffset": 51670
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -5703,10 +5703,10 @@
                 "to": {
                     "startLine": 573,
                     "startColumn": 4,
-                    "startOffset": 51677,
+                    "startOffset": 51675,
                     "endLine": 576,
                     "endColumn": 12,
-                    "endOffset": 51919
+                    "endOffset": 51917
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -5724,10 +5724,10 @@
                 "to": {
                     "startLine": 577,
                     "startColumn": 4,
-                    "startOffset": 51924,
+                    "startOffset": 51922,
                     "endLine": 580,
                     "endColumn": 12,
-                    "endOffset": 52140
+                    "endOffset": 52138
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -5745,10 +5745,10 @@
                 "to": {
                     "startLine": 581,
                     "startColumn": 4,
-                    "startOffset": 52145,
+                    "startOffset": 52143,
                     "endLine": 584,
                     "endColumn": 12,
-                    "endOffset": 52385
+                    "endOffset": 52383
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -5766,10 +5766,10 @@
                 "to": {
                     "startLine": 585,
                     "startColumn": 4,
-                    "startOffset": 52390,
+                    "startOffset": 52388,
                     "endLine": 588,
                     "endColumn": 12,
-                    "endOffset": 52661
+                    "endOffset": 52659
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -5787,10 +5787,10 @@
                 "to": {
                     "startLine": 589,
                     "startColumn": 4,
-                    "startOffset": 52666,
+                    "startOffset": 52664,
                     "endLine": 592,
                     "endColumn": 12,
-                    "endOffset": 52962
+                    "endOffset": 52960
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -5808,10 +5808,10 @@
                 "to": {
                     "startLine": 593,
                     "startColumn": 4,
-                    "startOffset": 52967,
+                    "startOffset": 52965,
                     "endLine": 596,
                     "endColumn": 12,
-                    "endOffset": 53286
+                    "endOffset": 53284
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -5829,10 +5829,10 @@
                 "to": {
                     "startLine": 597,
                     "startColumn": 4,
-                    "startOffset": 53291,
+                    "startOffset": 53289,
                     "endLine": 600,
                     "endColumn": 12,
-                    "endOffset": 53577
+                    "endOffset": 53575
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -5850,10 +5850,10 @@
                 "to": {
                     "startLine": 601,
                     "startColumn": 4,
-                    "startOffset": 53582,
+                    "startOffset": 53580,
                     "endLine": 604,
                     "endColumn": 12,
-                    "endOffset": 53891
+                    "endOffset": 53889
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -5871,9 +5871,9 @@
                 "to": {
                     "startLine": 605,
                     "startColumn": 4,
-                    "startOffset": 53896,
+                    "startOffset": 53894,
                     "endColumn": 136,
-                    "endOffset": 54028
+                    "endOffset": 54026
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -5890,9 +5890,9 @@
                 "to": {
                     "startLine": 606,
                     "startColumn": 4,
-                    "startOffset": 54033,
+                    "startOffset": 54031,
                     "endColumn": 130,
-                    "endOffset": 54159
+                    "endOffset": 54157
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -5909,9 +5909,9 @@
                 "to": {
                     "startLine": 607,
                     "startColumn": 4,
-                    "startOffset": 54164,
+                    "startOffset": 54162,
                     "endColumn": 104,
-                    "endOffset": 54264
+                    "endOffset": 54262
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -5928,10 +5928,10 @@
                 "to": {
                     "startLine": 608,
                     "startColumn": 4,
-                    "startOffset": 54269,
+                    "startOffset": 54267,
                     "endLine": 610,
                     "endColumn": 12,
-                    "endOffset": 54506
+                    "endOffset": 54504
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -5949,10 +5949,10 @@
                 "to": {
                     "startLine": 611,
                     "startColumn": 4,
-                    "startOffset": 54511,
+                    "startOffset": 54509,
                     "endLine": 613,
                     "endColumn": 12,
-                    "endOffset": 54673
+                    "endOffset": 54671
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -5970,10 +5970,10 @@
                 "to": {
                     "startLine": 614,
                     "startColumn": 4,
-                    "startOffset": 54678,
+                    "startOffset": 54676,
                     "endLine": 616,
                     "endColumn": 12,
-                    "endOffset": 54877
+                    "endOffset": 54875
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -5991,10 +5991,10 @@
                 "to": {
                     "startLine": 617,
                     "startColumn": 4,
-                    "startOffset": 54882,
+                    "startOffset": 54880,
                     "endLine": 619,
                     "endColumn": 12,
-                    "endOffset": 55085
+                    "endOffset": 55083
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -6012,10 +6012,10 @@
                 "to": {
                     "startLine": 620,
                     "startColumn": 4,
-                    "startOffset": 55090,
+                    "startOffset": 55088,
                     "endLine": 623,
                     "endColumn": 12,
-                    "endOffset": 55356
+                    "endOffset": 55354
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -6033,9 +6033,9 @@
                 "to": {
                     "startLine": 624,
                     "startColumn": 4,
-                    "startOffset": 55361,
+                    "startOffset": 55359,
                     "endColumn": 111,
-                    "endOffset": 55468
+                    "endOffset": 55466
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -6052,9 +6052,9 @@
                 "to": {
                     "startLine": 625,
                     "startColumn": 4,
-                    "startOffset": 55473,
+                    "startOffset": 55471,
                     "endColumn": 111,
-                    "endOffset": 55580
+                    "endOffset": 55578
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -6071,9 +6071,9 @@
                 "to": {
                     "startLine": 626,
                     "startColumn": 4,
-                    "startOffset": 55585,
+                    "startOffset": 55583,
                     "endColumn": 104,
-                    "endOffset": 55685
+                    "endOffset": 55683
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -6090,9 +6090,9 @@
                 "to": {
                     "startLine": 627,
                     "startColumn": 4,
-                    "startOffset": 55690,
+                    "startOffset": 55688,
                     "endColumn": 116,
-                    "endOffset": 55802
+                    "endOffset": 55800
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -6109,10 +6109,10 @@
                 "to": {
                     "startLine": 628,
                     "startColumn": 4,
-                    "startOffset": 55807,
+                    "startOffset": 55805,
                     "endLine": 630,
                     "endColumn": 12,
-                    "endOffset": 56016
+                    "endOffset": 56014
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -6130,10 +6130,10 @@
                 "to": {
                     "startLine": 631,
                     "startColumn": 4,
-                    "startOffset": 56021,
+                    "startOffset": 56019,
                     "endLine": 632,
                     "endColumn": 12,
-                    "endOffset": 56162
+                    "endOffset": 56160
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -6151,10 +6151,10 @@
                 "to": {
                     "startLine": 633,
                     "startColumn": 4,
-                    "startOffset": 56167,
+                    "startOffset": 56165,
                     "endLine": 634,
                     "endColumn": 12,
-                    "endOffset": 56302
+                    "endOffset": 56300
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -6172,10 +6172,10 @@
                 "to": {
                     "startLine": 635,
                     "startColumn": 4,
-                    "startOffset": 56307,
+                    "startOffset": 56305,
                     "endLine": 636,
                     "endColumn": 12,
-                    "endOffset": 56388
+                    "endOffset": 56386
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -6193,10 +6193,10 @@
                 "to": {
                     "startLine": 637,
                     "startColumn": 4,
-                    "startOffset": 56393,
+                    "startOffset": 56391,
                     "endLine": 641,
                     "endColumn": 12,
-                    "endOffset": 56736
+                    "endOffset": 56734
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -6214,9 +6214,9 @@
                 "to": {
                     "startLine": 642,
                     "startColumn": 4,
-                    "startOffset": 56741,
+                    "startOffset": 56739,
                     "endColumn": 87,
-                    "endOffset": 56824
+                    "endOffset": 56822
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -6233,10 +6233,10 @@
                 "to": {
                     "startLine": 643,
                     "startColumn": 4,
-                    "startOffset": 56829,
+                    "startOffset": 56827,
                     "endLine": 646,
                     "endColumn": 12,
-                    "endOffset": 57054
+                    "endOffset": 57052
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -6254,10 +6254,10 @@
                 "to": {
                     "startLine": 647,
                     "startColumn": 4,
-                    "startOffset": 57059,
+                    "startOffset": 57057,
                     "endLine": 652,
                     "endColumn": 12,
-                    "endOffset": 57472
+                    "endOffset": 57470
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -6275,10 +6275,10 @@
                 "to": {
                     "startLine": 653,
                     "startColumn": 4,
-                    "startOffset": 57477,
+                    "startOffset": 57475,
                     "endLine": 656,
                     "endColumn": 12,
-                    "endOffset": 57705
+                    "endOffset": 57703
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -6296,9 +6296,9 @@
                 "to": {
                     "startLine": 657,
                     "startColumn": 4,
-                    "startOffset": 57710,
+                    "startOffset": 57708,
                     "endColumn": 81,
-                    "endOffset": 57787
+                    "endOffset": 57785
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -6315,10 +6315,10 @@
                 "to": {
                     "startLine": 658,
                     "startColumn": 4,
-                    "startOffset": 57792,
+                    "startOffset": 57790,
                     "endLine": 659,
                     "endColumn": 12,
-                    "endOffset": 57885
+                    "endOffset": 57883
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -6336,10 +6336,10 @@
                 "to": {
                     "startLine": 660,
                     "startColumn": 4,
-                    "startOffset": 57890,
+                    "startOffset": 57888,
                     "endLine": 670,
                     "endColumn": 12,
-                    "endOffset": 58502
+                    "endOffset": 58500
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -6357,9 +6357,9 @@
                 "to": {
                     "startLine": 671,
                     "startColumn": 4,
-                    "startOffset": 58507,
+                    "startOffset": 58505,
                     "endColumn": 99,
-                    "endOffset": 58602
+                    "endOffset": 58600
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -6376,10 +6376,10 @@
                 "to": {
                     "startLine": 672,
                     "startColumn": 4,
-                    "startOffset": 58607,
+                    "startOffset": 58605,
                     "endLine": 675,
                     "endColumn": 12,
-                    "endOffset": 58838
+                    "endOffset": 58836
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -6397,10 +6397,10 @@
                 "to": {
                     "startLine": 676,
                     "startColumn": 4,
-                    "startOffset": 58843,
+                    "startOffset": 58841,
                     "endLine": 681,
                     "endColumn": 12,
-                    "endOffset": 59262
+                    "endOffset": 59260
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -6418,10 +6418,10 @@
                 "to": {
                     "startLine": 682,
                     "startColumn": 4,
-                    "startOffset": 59267,
+                    "startOffset": 59265,
                     "endLine": 685,
                     "endColumn": 12,
-                    "endOffset": 59501
+                    "endOffset": 59499
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -6439,9 +6439,9 @@
                 "to": {
                     "startLine": 686,
                     "startColumn": 4,
-                    "startOffset": 59506,
+                    "startOffset": 59504,
                     "endColumn": 93,
-                    "endOffset": 59595
+                    "endOffset": 59593
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -6458,9 +6458,9 @@
                 "to": {
                     "startLine": 687,
                     "startColumn": 4,
-                    "startOffset": 59600,
+                    "startOffset": 59598,
                     "endColumn": 88,
-                    "endOffset": 59684
+                    "endOffset": 59682
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -6477,10 +6477,10 @@
                 "to": {
                     "startLine": 688,
                     "startColumn": 4,
-                    "startOffset": 59689,
+                    "startOffset": 59687,
                     "endLine": 691,
                     "endColumn": 12,
-                    "endOffset": 59921
+                    "endOffset": 59919
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -6498,10 +6498,10 @@
                 "to": {
                     "startLine": 692,
                     "startColumn": 4,
-                    "startOffset": 59926,
+                    "startOffset": 59924,
                     "endLine": 718,
                     "endColumn": 12,
-                    "endOffset": 61973
+                    "endOffset": 61971
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -6519,10 +6519,10 @@
                 "to": {
                     "startLine": 719,
                     "startColumn": 4,
-                    "startOffset": 61978,
+                    "startOffset": 61976,
                     "endLine": 722,
                     "endColumn": 12,
-                    "endOffset": 62215
+                    "endOffset": 62213
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -6540,9 +6540,9 @@
                 "to": {
                     "startLine": 723,
                     "startColumn": 4,
-                    "startOffset": 62220,
+                    "startOffset": 62218,
                     "endColumn": 101,
-                    "endOffset": 62317
+                    "endOffset": 62315
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -6559,10 +6559,10 @@
                 "to": {
                     "startLine": 724,
                     "startColumn": 4,
-                    "startOffset": 62322,
+                    "startOffset": 62320,
                     "endLine": 727,
                     "endColumn": 12,
-                    "endOffset": 62554
+                    "endOffset": 62552
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -6580,10 +6580,10 @@
                 "to": {
                     "startLine": 728,
                     "startColumn": 4,
-                    "startOffset": 62559,
+                    "startOffset": 62557,
                     "endLine": 755,
                     "endColumn": 12,
-                    "endOffset": 64738
+                    "endOffset": 64736
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -6601,10 +6601,10 @@
                 "to": {
                     "startLine": 756,
                     "startColumn": 4,
-                    "startOffset": 64743,
+                    "startOffset": 64741,
                     "endLine": 914,
                     "endColumn": 12,
-                    "endOffset": 74907
+                    "endOffset": 74905
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -6622,10 +6622,10 @@
                 "to": {
                     "startLine": 915,
                     "startColumn": 4,
-                    "startOffset": 74912,
+                    "startOffset": 74910,
                     "endLine": 936,
                     "endColumn": 12,
-                    "endOffset": 76158
+                    "endOffset": 76156
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -6643,10 +6643,10 @@
                 "to": {
                     "startLine": 937,
                     "startColumn": 4,
-                    "startOffset": 76163,
+                    "startOffset": 76161,
                     "endLine": 1095,
                     "endColumn": 12,
-                    "endOffset": 86426
+                    "endOffset": 86424
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -6664,10 +6664,10 @@
                 "to": {
                     "startLine": 1096,
                     "startColumn": 4,
-                    "startOffset": 86431,
+                    "startOffset": 86429,
                     "endLine": 1117,
                     "endColumn": 12,
-                    "endOffset": 87689
+                    "endOffset": 87687
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -6685,10 +6685,10 @@
                 "to": {
                     "startLine": 1118,
                     "startColumn": 4,
-                    "startOffset": 87694,
+                    "startOffset": 87692,
                     "endLine": 1144,
                     "endColumn": 12,
-                    "endOffset": 89181
+                    "endOffset": 89179
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -6706,10 +6706,10 @@
                 "to": {
                     "startLine": 1145,
                     "startColumn": 4,
-                    "startOffset": 89186,
+                    "startOffset": 89184,
                     "endLine": 1151,
                     "endColumn": 12,
-                    "endOffset": 89717
+                    "endOffset": 89715
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -6727,10 +6727,10 @@
                 "to": {
                     "startLine": 1152,
                     "startColumn": 4,
-                    "startOffset": 89722,
+                    "startOffset": 89720,
                     "endLine": 1156,
                     "endColumn": 12,
-                    "endOffset": 90047
+                    "endOffset": 90045
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -6748,10 +6748,10 @@
                 "to": {
                     "startLine": 1157,
                     "startColumn": 4,
-                    "startOffset": 90052,
+                    "startOffset": 90050,
                     "endLine": 1178,
                     "endColumn": 12,
-                    "endOffset": 91312
+                    "endOffset": 91310
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -6769,10 +6769,10 @@
                 "to": {
                     "startLine": 1179,
                     "startColumn": 4,
-                    "startOffset": 91317,
+                    "startOffset": 91315,
                     "endLine": 1183,
                     "endColumn": 12,
-                    "endOffset": 91568
+                    "endOffset": 91566
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -6790,10 +6790,10 @@
                 "to": {
                     "startLine": 1184,
                     "startColumn": 4,
-                    "startOffset": 91573,
+                    "startOffset": 91571,
                     "endLine": 1188,
                     "endColumn": 12,
-                    "endOffset": 91804
+                    "endOffset": 91802
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -6811,10 +6811,10 @@
                 "to": {
                     "startLine": 1189,
                     "startColumn": 4,
-                    "startOffset": 91809,
+                    "startOffset": 91807,
                     "endLine": 1198,
                     "endColumn": 12,
-                    "endOffset": 92351
+                    "endOffset": 92349
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -6832,10 +6832,10 @@
                 "to": {
                     "startLine": 1199,
                     "startColumn": 4,
-                    "startOffset": 92356,
+                    "startOffset": 92354,
                     "endLine": 1207,
                     "endColumn": 12,
-                    "endOffset": 92845
+                    "endOffset": 92843
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -6853,10 +6853,10 @@
                 "to": {
                     "startLine": 1208,
                     "startColumn": 4,
-                    "startOffset": 92850,
+                    "startOffset": 92848,
                     "endLine": 1216,
                     "endColumn": 12,
-                    "endOffset": 93450
+                    "endOffset": 93448
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -6874,10 +6874,10 @@
                 "to": {
                     "startLine": 1217,
                     "startColumn": 4,
-                    "startOffset": 93455,
+                    "startOffset": 93453,
                     "endLine": 1220,
                     "endColumn": 12,
-                    "endOffset": 93648
+                    "endOffset": 93646
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -6895,10 +6895,10 @@
                 "to": {
                     "startLine": 1221,
                     "startColumn": 4,
-                    "startOffset": 93653,
+                    "startOffset": 93651,
                     "endLine": 1227,
                     "endColumn": 12,
-                    "endOffset": 94228
+                    "endOffset": 94226
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -6916,10 +6916,10 @@
                 "to": {
                     "startLine": 1228,
                     "startColumn": 4,
-                    "startOffset": 94233,
+                    "startOffset": 94231,
                     "endLine": 1235,
                     "endColumn": 12,
-                    "endOffset": 94792
+                    "endOffset": 94790
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -6937,10 +6937,10 @@
                 "to": {
                     "startLine": 1236,
                     "startColumn": 4,
-                    "startOffset": 94797,
+                    "startOffset": 94795,
                     "endLine": 1242,
                     "endColumn": 12,
-                    "endOffset": 95167
+                    "endOffset": 95165
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -6958,9 +6958,9 @@
                 "to": {
                     "startLine": 1243,
                     "startColumn": 4,
-                    "startOffset": 95172,
+                    "startOffset": 95170,
                     "endColumn": 117,
-                    "endOffset": 95285
+                    "endOffset": 95283
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -6977,10 +6977,10 @@
                 "to": {
                     "startLine": 1244,
                     "startColumn": 4,
-                    "startOffset": 95290,
+                    "startOffset": 95288,
                     "endLine": 1252,
                     "endColumn": 12,
-                    "endOffset": 95823
+                    "endOffset": 95821
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -6998,10 +6998,10 @@
                 "to": {
                     "startLine": 1253,
                     "startColumn": 4,
-                    "startOffset": 95828,
+                    "startOffset": 95826,
                     "endLine": 1255,
                     "endColumn": 12,
-                    "endOffset": 95980
+                    "endOffset": 95978
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -7019,10 +7019,10 @@
                 "to": {
                     "startLine": 1256,
                     "startColumn": 4,
-                    "startOffset": 95985,
+                    "startOffset": 95983,
                     "endLine": 1258,
                     "endColumn": 12,
-                    "endOffset": 96176
+                    "endOffset": 96174
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -7040,10 +7040,10 @@
                 "to": {
                     "startLine": 1259,
                     "startColumn": 4,
-                    "startOffset": 96181,
+                    "startOffset": 96179,
                     "endLine": 1262,
                     "endColumn": 12,
-                    "endOffset": 96449
+                    "endOffset": 96447
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -7061,10 +7061,10 @@
                 "to": {
                     "startLine": 1263,
                     "startColumn": 4,
-                    "startOffset": 96454,
+                    "startOffset": 96452,
                     "endLine": 1266,
                     "endColumn": 12,
-                    "endOffset": 96705
+                    "endOffset": 96703
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -7082,10 +7082,10 @@
                 "to": {
                     "startLine": 1267,
                     "startColumn": 4,
-                    "startOffset": 96710,
+                    "startOffset": 96708,
                     "endLine": 1270,
                     "endColumn": 12,
-                    "endOffset": 96875
+                    "endOffset": 96873
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -7103,10 +7103,10 @@
                 "to": {
                     "startLine": 1271,
                     "startColumn": 4,
-                    "startOffset": 96880,
+                    "startOffset": 96878,
                     "endLine": 1273,
                     "endColumn": 12,
-                    "endOffset": 97016
+                    "endOffset": 97014
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -7124,9 +7124,9 @@
                 "to": {
                     "startLine": 1274,
                     "startColumn": 4,
-                    "startOffset": 97021,
+                    "startOffset": 97019,
                     "endColumn": 63,
-                    "endOffset": 97080
+                    "endOffset": 97078
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -7143,10 +7143,10 @@
                 "to": {
                     "startLine": 1275,
                     "startColumn": 4,
-                    "startOffset": 97085,
+                    "startOffset": 97083,
                     "endLine": 1278,
                     "endColumn": 12,
-                    "endOffset": 97362
+                    "endOffset": 97360
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -7164,10 +7164,10 @@
                 "to": {
                     "startLine": 1279,
                     "startColumn": 4,
-                    "startOffset": 97367,
+                    "startOffset": 97365,
                     "endLine": 1282,
                     "endColumn": 12,
-                    "endOffset": 97648
+                    "endOffset": 97646
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -7185,10 +7185,10 @@
                 "to": {
                     "startLine": 1283,
                     "startColumn": 4,
-                    "startOffset": 97653,
+                    "startOffset": 97651,
                     "endLine": 1292,
                     "endColumn": 12,
-                    "endOffset": 98324
+                    "endOffset": 98322
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -7206,10 +7206,10 @@
                 "to": {
                     "startLine": 1293,
                     "startColumn": 4,
-                    "startOffset": 98329,
+                    "startOffset": 98327,
                     "endLine": 1297,
                     "endColumn": 12,
-                    "endOffset": 98588
+                    "endOffset": 98586
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -7227,10 +7227,10 @@
                 "to": {
                     "startLine": 1298,
                     "startColumn": 4,
-                    "startOffset": 98593,
+                    "startOffset": 98591,
                     "endLine": 1304,
                     "endColumn": 12,
-                    "endOffset": 98926
+                    "endOffset": 98924
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -7248,10 +7248,10 @@
                 "to": {
                     "startLine": 1305,
                     "startColumn": 4,
-                    "startOffset": 98931,
+                    "startOffset": 98929,
                     "endLine": 1310,
                     "endColumn": 12,
-                    "endOffset": 99279
+                    "endOffset": 99277
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -7269,9 +7269,9 @@
                 "to": {
                     "startLine": 1311,
                     "startColumn": 4,
-                    "startOffset": 99284,
+                    "startOffset": 99282,
                     "endColumn": 93,
-                    "endOffset": 99373
+                    "endOffset": 99371
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -7288,10 +7288,10 @@
                 "to": {
                     "startLine": 1312,
                     "startColumn": 4,
-                    "startOffset": 99378,
+                    "startOffset": 99376,
                     "endLine": 1314,
                     "endColumn": 12,
-                    "endOffset": 99559
+                    "endOffset": 99557
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -7309,10 +7309,10 @@
                 "to": {
                     "startLine": 1315,
                     "startColumn": 4,
-                    "startOffset": 99564,
+                    "startOffset": 99562,
                     "endLine": 1318,
                     "endColumn": 12,
-                    "endOffset": 99865
+                    "endOffset": 99863
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -7330,10 +7330,10 @@
                 "to": {
                     "startLine": 1319,
                     "startColumn": 4,
-                    "startOffset": 99870,
+                    "startOffset": 99868,
                     "endLine": 1323,
                     "endColumn": 12,
-                    "endOffset": 100127
+                    "endOffset": 100125
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -7351,10 +7351,10 @@
                 "to": {
                     "startLine": 1324,
                     "startColumn": 4,
-                    "startOffset": 100132,
+                    "startOffset": 100130,
                     "endLine": 1325,
                     "endColumn": 12,
-                    "endOffset": 100252
+                    "endOffset": 100250
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -7372,10 +7372,10 @@
                 "to": {
                     "startLine": 1326,
                     "startColumn": 4,
-                    "startOffset": 100257,
+                    "startOffset": 100255,
                     "endLine": 1327,
                     "endColumn": 12,
-                    "endOffset": 100379
+                    "endOffset": 100377
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -7393,10 +7393,10 @@
                 "to": {
                     "startLine": 1328,
                     "startColumn": 4,
-                    "startOffset": 100384,
+                    "startOffset": 100382,
                     "endLine": 1330,
                     "endColumn": 12,
-                    "endOffset": 100618
+                    "endOffset": 100616
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -7414,10 +7414,10 @@
                 "to": {
                     "startLine": 1331,
                     "startColumn": 4,
-                    "startOffset": 100623,
+                    "startOffset": 100621,
                     "endLine": 1333,
                     "endColumn": 12,
-                    "endOffset": 100829
+                    "endOffset": 100827
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -7435,10 +7435,10 @@
                 "to": {
                     "startLine": 1334,
                     "startColumn": 4,
-                    "startOffset": 100834,
+                    "startOffset": 100832,
                     "endLine": 1335,
                     "endColumn": 12,
-                    "endOffset": 100948
+                    "endOffset": 100946
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -7456,10 +7456,10 @@
                 "to": {
                     "startLine": 1336,
                     "startColumn": 4,
-                    "startOffset": 100953,
+                    "startOffset": 100951,
                     "endLine": 1339,
                     "endColumn": 12,
-                    "endOffset": 101141
+                    "endOffset": 101139
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -7477,10 +7477,10 @@
                 "to": {
                     "startLine": 1340,
                     "startColumn": 4,
-                    "startOffset": 101146,
+                    "startOffset": 101144,
                     "endLine": 1342,
                     "endColumn": 12,
-                    "endOffset": 101318
+                    "endOffset": 101316
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -7498,10 +7498,10 @@
                 "to": {
                     "startLine": 1343,
                     "startColumn": 4,
-                    "startOffset": 101323,
+                    "startOffset": 101321,
                     "endLine": 1349,
                     "endColumn": 12,
-                    "endOffset": 101773
+                    "endOffset": 101771
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -7519,10 +7519,10 @@
                 "to": {
                     "startLine": 1350,
                     "startColumn": 4,
-                    "startOffset": 101778,
+                    "startOffset": 101776,
                     "endLine": 1352,
                     "endColumn": 12,
-                    "endOffset": 101954
+                    "endOffset": 101952
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -7540,10 +7540,10 @@
                 "to": {
                     "startLine": 1353,
                     "startColumn": 4,
-                    "startOffset": 101959,
+                    "startOffset": 101957,
                     "endLine": 1355,
                     "endColumn": 12,
-                    "endOffset": 102076
+                    "endOffset": 102074
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -7561,10 +7561,10 @@
                 "to": {
                     "startLine": 1356,
                     "startColumn": 4,
-                    "startOffset": 102081,
+                    "startOffset": 102079,
                     "endLine": 1359,
                     "endColumn": 12,
-                    "endOffset": 102335
+                    "endOffset": 102333
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -7582,10 +7582,10 @@
                 "to": {
                     "startLine": 1360,
                     "startColumn": 4,
-                    "startOffset": 102340,
+                    "startOffset": 102338,
                     "endLine": 1361,
                     "endColumn": 12,
-                    "endOffset": 102448
+                    "endOffset": 102446
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -7603,10 +7603,10 @@
                 "to": {
                     "startLine": 1362,
                     "startColumn": 4,
-                    "startOffset": 102453,
+                    "startOffset": 102451,
                     "endLine": 1365,
                     "endColumn": 12,
-                    "endOffset": 102635
+                    "endOffset": 102633
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -7624,10 +7624,10 @@
                 "to": {
                     "startLine": 1366,
                     "startColumn": 4,
-                    "startOffset": 102640,
+                    "startOffset": 102638,
                     "endLine": 1367,
                     "endColumn": 12,
-                    "endOffset": 102737
+                    "endOffset": 102735
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -7645,10 +7645,10 @@
                 "to": {
                     "startLine": 1368,
                     "startColumn": 4,
-                    "startOffset": 102742,
+                    "startOffset": 102740,
                     "endLine": 1373,
                     "endColumn": 12,
-                    "endOffset": 103181
+                    "endOffset": 103179
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -7666,10 +7666,10 @@
                 "to": {
                     "startLine": 1374,
                     "startColumn": 4,
-                    "startOffset": 103186,
+                    "startOffset": 103184,
                     "endLine": 1375,
                     "endColumn": 12,
-                    "endOffset": 103305
+                    "endOffset": 103303
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -7687,10 +7687,10 @@
                 "to": {
                     "startLine": 1376,
                     "startColumn": 4,
-                    "startOffset": 103310,
+                    "startOffset": 103308,
                     "endLine": 1379,
                     "endColumn": 12,
-                    "endOffset": 103580
+                    "endOffset": 103578
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -7708,10 +7708,10 @@
                 "to": {
                     "startLine": 1380,
                     "startColumn": 4,
-                    "startOffset": 103585,
+                    "startOffset": 103583,
                     "endLine": 1387,
                     "endColumn": 12,
-                    "endOffset": 104088
+                    "endOffset": 104086
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -7729,10 +7729,10 @@
                 "to": {
                     "startLine": 1388,
                     "startColumn": 4,
-                    "startOffset": 104093,
+                    "startOffset": 104091,
                     "endLine": 1395,
                     "endColumn": 12,
-                    "endOffset": 104584
+                    "endOffset": 104582
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -7750,10 +7750,10 @@
                 "to": {
                     "startLine": 1396,
                     "startColumn": 4,
-                    "startOffset": 104589,
+                    "startOffset": 104587,
                     "endLine": 1407,
                     "endColumn": 12,
-                    "endOffset": 105461
+                    "endOffset": 105459
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -7771,10 +7771,10 @@
                 "to": {
                     "startLine": 1408,
                     "startColumn": 4,
-                    "startOffset": 105466,
+                    "startOffset": 105464,
                     "endLine": 1413,
                     "endColumn": 12,
-                    "endOffset": 105755
+                    "endOffset": 105753
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -7792,10 +7792,10 @@
                 "to": {
                     "startLine": 1414,
                     "startColumn": 4,
-                    "startOffset": 105760,
+                    "startOffset": 105758,
                     "endLine": 1422,
                     "endColumn": 12,
-                    "endOffset": 106325
+                    "endOffset": 106323
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -7813,10 +7813,10 @@
                 "to": {
                     "startLine": 1423,
                     "startColumn": 4,
-                    "startOffset": 106330,
+                    "startOffset": 106328,
                     "endLine": 1425,
                     "endColumn": 12,
-                    "endOffset": 106474
+                    "endOffset": 106472
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -7834,10 +7834,10 @@
                 "to": {
                     "startLine": 1426,
                     "startColumn": 4,
-                    "startOffset": 106479,
+                    "startOffset": 106477,
                     "endLine": 1436,
                     "endColumn": 12,
-                    "endOffset": 107206
+                    "endOffset": 107204
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -7855,10 +7855,10 @@
                 "to": {
                     "startLine": 1437,
                     "startColumn": 4,
-                    "startOffset": 107211,
+                    "startOffset": 107209,
                     "endLine": 1439,
                     "endColumn": 12,
-                    "endOffset": 107378
+                    "endOffset": 107376
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -7876,10 +7876,10 @@
                 "to": {
                     "startLine": 1440,
                     "startColumn": 4,
-                    "startOffset": 107383,
+                    "startOffset": 107381,
                     "endLine": 1444,
                     "endColumn": 12,
-                    "endOffset": 107714
+                    "endOffset": 107712
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -7897,10 +7897,10 @@
                 "to": {
                     "startLine": 1445,
                     "startColumn": 4,
-                    "startOffset": 107719,
+                    "startOffset": 107717,
                     "endLine": 1458,
                     "endColumn": 12,
-                    "endOffset": 108772
+                    "endOffset": 108770
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -7918,10 +7918,10 @@
                 "to": {
                     "startLine": 1459,
                     "startColumn": 4,
-                    "startOffset": 108777,
+                    "startOffset": 108775,
                     "endLine": 1463,
                     "endColumn": 12,
-                    "endOffset": 109050
+                    "endOffset": 109048
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -7939,10 +7939,10 @@
                 "to": {
                     "startLine": 1464,
                     "startColumn": 4,
-                    "startOffset": 109055,
+                    "startOffset": 109053,
                     "endLine": 1505,
                     "endColumn": 12,
-                    "endOffset": 112236
+                    "endOffset": 112234
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -7960,10 +7960,10 @@
                 "to": {
                     "startLine": 1506,
                     "startColumn": 4,
-                    "startOffset": 112241,
+                    "startOffset": 112239,
                     "endLine": 1548,
                     "endColumn": 12,
-                    "endOffset": 115565
+                    "endOffset": 115563
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -7981,9 +7981,9 @@
                 "to": {
                     "startLine": 1549,
                     "startColumn": 4,
-                    "startOffset": 115570,
+                    "startOffset": 115568,
                     "endColumn": 61,
-                    "endOffset": 115627
+                    "endOffset": 115625
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -8000,10 +8000,10 @@
                 "to": {
                     "startLine": 1550,
                     "startColumn": 4,
-                    "startOffset": 115632,
+                    "startOffset": 115630,
                     "endLine": 1559,
                     "endColumn": 12,
-                    "endOffset": 116257
+                    "endOffset": 116255
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -8021,10 +8021,10 @@
                 "to": {
                     "startLine": 1560,
                     "startColumn": 4,
-                    "startOffset": 116262,
+                    "startOffset": 116260,
                     "endLine": 1568,
                     "endColumn": 12,
-                    "endOffset": 116871
+                    "endOffset": 116869
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -8042,9 +8042,9 @@
                 "to": {
                     "startLine": 1569,
                     "startColumn": 4,
-                    "startOffset": 116876,
+                    "startOffset": 116874,
                     "endColumn": 85,
-                    "endOffset": 116957
+                    "endOffset": 116955
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -8061,10 +8061,10 @@
                 "to": {
                     "startLine": 1570,
                     "startColumn": 4,
-                    "startOffset": 116962,
+                    "startOffset": 116960,
                     "endLine": 1571,
                     "endColumn": 12,
-                    "endOffset": 117070
+                    "endOffset": 117068
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -8082,10 +8082,10 @@
                 "to": {
                     "startLine": 1572,
                     "startColumn": 4,
-                    "startOffset": 117075,
+                    "startOffset": 117073,
                     "endLine": 1575,
                     "endColumn": 12,
-                    "endOffset": 117299
+                    "endOffset": 117297
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -8103,10 +8103,10 @@
                 "to": {
                     "startLine": 1576,
                     "startColumn": 4,
-                    "startOffset": 117304,
+                    "startOffset": 117302,
                     "endLine": 1578,
                     "endColumn": 12,
-                    "endOffset": 117459
+                    "endOffset": 117457
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -8124,10 +8124,10 @@
                 "to": {
                     "startLine": 1579,
                     "startColumn": 4,
-                    "startOffset": 117464,
+                    "startOffset": 117462,
                     "endLine": 1581,
                     "endColumn": 12,
-                    "endOffset": 117611
+                    "endOffset": 117609
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -8145,10 +8145,10 @@
                 "to": {
                     "startLine": 1582,
                     "startColumn": 4,
-                    "startOffset": 117616,
+                    "startOffset": 117614,
                     "endLine": 1584,
                     "endColumn": 12,
-                    "endOffset": 117782
+                    "endOffset": 117780
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -8166,10 +8166,10 @@
                 "to": {
                     "startLine": 1585,
                     "startColumn": 4,
-                    "startOffset": 117787,
+                    "startOffset": 117785,
                     "endLine": 1587,
                     "endColumn": 12,
-                    "endOffset": 117949
+                    "endOffset": 117947
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -8187,10 +8187,10 @@
                 "to": {
                     "startLine": 1588,
                     "startColumn": 4,
-                    "startOffset": 117954,
+                    "startOffset": 117952,
                     "endLine": 1591,
                     "endColumn": 12,
-                    "endOffset": 118192
+                    "endOffset": 118190
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -8208,10 +8208,10 @@
                 "to": {
                     "startLine": 1592,
                     "startColumn": 4,
-                    "startOffset": 118197,
+                    "startOffset": 118195,
                     "endLine": 1594,
                     "endColumn": 12,
-                    "endOffset": 118362
+                    "endOffset": 118360
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -8229,10 +8229,10 @@
                 "to": {
                     "startLine": 1595,
                     "startColumn": 4,
-                    "startOffset": 118367,
+                    "startOffset": 118365,
                     "endLine": 1597,
                     "endColumn": 12,
-                    "endOffset": 118535
+                    "endOffset": 118533
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -8250,10 +8250,10 @@
                 "to": {
                     "startLine": 1598,
                     "startColumn": 4,
-                    "startOffset": 118540,
+                    "startOffset": 118538,
                     "endLine": 1600,
                     "endColumn": 12,
-                    "endOffset": 118706
+                    "endOffset": 118704
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -8271,10 +8271,10 @@
                 "to": {
                     "startLine": 1601,
                     "startColumn": 4,
-                    "startOffset": 118711,
+                    "startOffset": 118709,
                     "endLine": 1604,
                     "endColumn": 12,
-                    "endOffset": 118980
+                    "endOffset": 118978
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -8292,10 +8292,10 @@
                 "to": {
                     "startLine": 1605,
                     "startColumn": 4,
-                    "startOffset": 118985,
+                    "startOffset": 118983,
                     "endLine": 1607,
                     "endColumn": 12,
-                    "endOffset": 119179
+                    "endOffset": 119177
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -8313,10 +8313,10 @@
                 "to": {
                     "startLine": 1608,
                     "startColumn": 4,
-                    "startOffset": 119184,
+                    "startOffset": 119182,
                     "endLine": 1611,
                     "endColumn": 12,
-                    "endOffset": 119384
+                    "endOffset": 119382
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -8334,10 +8334,10 @@
                 "to": {
                     "startLine": 1612,
                     "startColumn": 4,
-                    "startOffset": 119389,
+                    "startOffset": 119387,
                     "endLine": 1615,
                     "endColumn": 12,
-                    "endOffset": 119714
+                    "endOffset": 119712
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -8355,9 +8355,9 @@
                 "to": {
                     "startLine": 1616,
                     "startColumn": 4,
-                    "startOffset": 119719,
+                    "startOffset": 119717,
                     "endColumn": 83,
-                    "endOffset": 119798
+                    "endOffset": 119796
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -8374,9 +8374,9 @@
                 "to": {
                     "startLine": 1617,
                     "startColumn": 4,
-                    "startOffset": 119803,
+                    "startOffset": 119801,
                     "endColumn": 95,
-                    "endOffset": 119894
+                    "endOffset": 119892
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -8393,9 +8393,9 @@
                 "to": {
                     "startLine": 1618,
                     "startColumn": 4,
-                    "startOffset": 119899,
+                    "startOffset": 119897,
                     "endColumn": 95,
-                    "endOffset": 119990
+                    "endOffset": 119988
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -8412,9 +8412,9 @@
                 "to": {
                     "startLine": 1619,
                     "startColumn": 4,
-                    "startOffset": 119995,
+                    "startOffset": 119993,
                     "endColumn": 97,
-                    "endOffset": 120088
+                    "endOffset": 120086
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -8431,9 +8431,9 @@
                 "to": {
                     "startLine": 1620,
                     "startColumn": 4,
-                    "startOffset": 120093,
+                    "startOffset": 120091,
                     "endColumn": 99,
-                    "endOffset": 120188
+                    "endOffset": 120186
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -8450,9 +8450,9 @@
                 "to": {
                     "startLine": 1621,
                     "startColumn": 4,
-                    "startOffset": 120193,
+                    "startOffset": 120191,
                     "endColumn": 101,
-                    "endOffset": 120290
+                    "endOffset": 120288
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -8469,9 +8469,9 @@
                 "to": {
                     "startLine": 1622,
                     "startColumn": 4,
-                    "startOffset": 120295,
+                    "startOffset": 120293,
                     "endColumn": 101,
-                    "endOffset": 120392
+                    "endOffset": 120390
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -8488,9 +8488,9 @@
                 "to": {
                     "startLine": 1623,
                     "startColumn": 4,
-                    "startOffset": 120397,
+                    "startOffset": 120395,
                     "endColumn": 101,
-                    "endOffset": 120494
+                    "endOffset": 120492
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -8507,9 +8507,9 @@
                 "to": {
                     "startLine": 1624,
                     "startColumn": 4,
-                    "startOffset": 120499,
+                    "startOffset": 120497,
                     "endColumn": 101,
-                    "endOffset": 120596
+                    "endOffset": 120594
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -8526,9 +8526,9 @@
                 "to": {
                     "startLine": 1625,
                     "startColumn": 4,
-                    "startOffset": 120601,
+                    "startOffset": 120599,
                     "endColumn": 101,
-                    "endOffset": 120698
+                    "endOffset": 120696
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -8545,9 +8545,9 @@
                 "to": {
                     "startLine": 1626,
                     "startColumn": 4,
-                    "startOffset": 120703,
+                    "startOffset": 120701,
                     "endColumn": 99,
-                    "endOffset": 120798
+                    "endOffset": 120796
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -8564,9 +8564,9 @@
                 "to": {
                     "startLine": 1627,
                     "startColumn": 4,
-                    "startOffset": 120803,
+                    "startOffset": 120801,
                     "endColumn": 95,
-                    "endOffset": 120894
+                    "endOffset": 120892
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -8583,9 +8583,9 @@
                 "to": {
                     "startLine": 1628,
                     "startColumn": 4,
-                    "startOffset": 120899,
+                    "startOffset": 120897,
                     "endColumn": 111,
-                    "endOffset": 121006
+                    "endOffset": 121004
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -8602,9 +8602,9 @@
                 "to": {
                     "startLine": 1629,
                     "startColumn": 4,
-                    "startOffset": 121011,
+                    "startOffset": 121009,
                     "endColumn": 128,
-                    "endOffset": 121135
+                    "endOffset": 121133
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -8621,9 +8621,9 @@
                 "to": {
                     "startLine": 1630,
                     "startColumn": 4,
-                    "startOffset": 121140,
+                    "startOffset": 121138,
                     "endColumn": 122,
-                    "endOffset": 121258
+                    "endOffset": 121256
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -8640,9 +8640,9 @@
                 "to": {
                     "startLine": 1631,
                     "startColumn": 4,
-                    "startOffset": 121263,
+                    "startOffset": 121261,
                     "endColumn": 130,
-                    "endOffset": 121389
+                    "endOffset": 121387
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -8659,9 +8659,9 @@
                 "to": {
                     "startLine": 1632,
                     "startColumn": 4,
-                    "startOffset": 121394,
+                    "startOffset": 121392,
                     "endColumn": 130,
-                    "endOffset": 121520
+                    "endOffset": 121518
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -8678,9 +8678,9 @@
                 "to": {
                     "startLine": 1633,
                     "startColumn": 4,
-                    "startOffset": 121525,
+                    "startOffset": 121523,
                     "endColumn": 97,
-                    "endOffset": 121618
+                    "endOffset": 121616
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -8697,9 +8697,9 @@
                 "to": {
                     "startLine": 1634,
                     "startColumn": 4,
-                    "startOffset": 121623,
+                    "startOffset": 121621,
                     "endColumn": 113,
-                    "endOffset": 121732
+                    "endOffset": 121730
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -8716,9 +8716,9 @@
                 "to": {
                     "startLine": 1635,
                     "startColumn": 4,
-                    "startOffset": 121737,
+                    "startOffset": 121735,
                     "endColumn": 93,
-                    "endOffset": 121826
+                    "endOffset": 121824
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -8735,10 +8735,10 @@
                 "to": {
                     "startLine": 1636,
                     "startColumn": 4,
-                    "startOffset": 121831,
+                    "startOffset": 121829,
                     "endLine": 1639,
                     "endColumn": 12,
-                    "endOffset": 122025
+                    "endOffset": 122023
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -8756,10 +8756,10 @@
                 "to": {
                     "startLine": 1640,
                     "startColumn": 4,
-                    "startOffset": 122030,
+                    "startOffset": 122028,
                     "endLine": 1643,
                     "endColumn": 12,
-                    "endOffset": 122229
+                    "endOffset": 122227
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -8777,9 +8777,9 @@
                 "to": {
                     "startLine": 1644,
                     "startColumn": 4,
-                    "startOffset": 122234,
+                    "startOffset": 122232,
                     "endColumn": 68,
-                    "endOffset": 122298
+                    "endOffset": 122296
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -8796,9 +8796,9 @@
                 "to": {
                     "startLine": 1645,
                     "startColumn": 4,
-                    "startOffset": 122303,
+                    "startOffset": 122301,
                     "endColumn": 115,
-                    "endOffset": 122414
+                    "endOffset": 122412
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -8815,9 +8815,9 @@
                 "to": {
                     "startLine": 1646,
                     "startColumn": 4,
-                    "startOffset": 122419,
+                    "startOffset": 122417,
                     "endColumn": 127,
-                    "endOffset": 122542
+                    "endOffset": 122540
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -8834,9 +8834,9 @@
                 "to": {
                     "startLine": 1647,
                     "startColumn": 4,
-                    "startOffset": 122547,
+                    "startOffset": 122545,
                     "endColumn": 63,
-                    "endOffset": 122606
+                    "endOffset": 122604
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -8853,10 +8853,10 @@
                 "to": {
                     "startLine": 1648,
                     "startColumn": 4,
-                    "startOffset": 122611,
+                    "startOffset": 122609,
                     "endLine": 1651,
                     "endColumn": 12,
-                    "endOffset": 122810
+                    "endOffset": 122808
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -8874,9 +8874,9 @@
                 "to": {
                     "startLine": 1652,
                     "startColumn": 4,
-                    "startOffset": 122815,
+                    "startOffset": 122813,
                     "endColumn": 68,
-                    "endOffset": 122879
+                    "endOffset": 122877
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -8893,10 +8893,10 @@
                 "to": {
                     "startLine": 1653,
                     "startColumn": 4,
-                    "startOffset": 122884,
+                    "startOffset": 122882,
                     "endLine": 1656,
                     "endColumn": 12,
-                    "endOffset": 123082
+                    "endOffset": 123080
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -8914,9 +8914,9 @@
                 "to": {
                     "startLine": 1657,
                     "startColumn": 4,
-                    "startOffset": 123087,
+                    "startOffset": 123085,
                     "endColumn": 69,
-                    "endOffset": 123152
+                    "endOffset": 123150
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -8933,10 +8933,10 @@
                 "to": {
                     "startLine": 1658,
                     "startColumn": 4,
-                    "startOffset": 123157,
+                    "startOffset": 123155,
                     "endLine": 1659,
                     "endColumn": 12,
-                    "endOffset": 123292
+                    "endOffset": 123290
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -8954,10 +8954,10 @@
                 "to": {
                     "startLine": 1660,
                     "startColumn": 4,
-                    "startOffset": 123297,
+                    "startOffset": 123295,
                     "endLine": 1661,
                     "endColumn": 12,
-                    "endOffset": 123426
+                    "endOffset": 123424
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -8975,9 +8975,9 @@
                 "to": {
                     "startLine": 1662,
                     "startColumn": 4,
-                    "startOffset": 123431,
+                    "startOffset": 123429,
                     "endColumn": 95,
-                    "endOffset": 123522
+                    "endOffset": 123520
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -8994,9 +8994,9 @@
                 "to": {
                     "startLine": 1663,
                     "startColumn": 4,
-                    "startOffset": 123527,
+                    "startOffset": 123525,
                     "endColumn": 111,
-                    "endOffset": 123634
+                    "endOffset": 123632
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -9013,9 +9013,9 @@
                 "to": {
                     "startLine": 1664,
                     "startColumn": 4,
-                    "startOffset": 123639,
+                    "startOffset": 123637,
                     "endColumn": 99,
-                    "endOffset": 123734
+                    "endOffset": 123732
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -9032,9 +9032,9 @@
                 "to": {
                     "startLine": 1665,
                     "startColumn": 4,
-                    "startOffset": 123739,
+                    "startOffset": 123737,
                     "endColumn": 115,
-                    "endOffset": 123850
+                    "endOffset": 123848
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -9051,9 +9051,9 @@
                 "to": {
                     "startLine": 1666,
                     "startColumn": 4,
-                    "startOffset": 123855,
+                    "startOffset": 123853,
                     "endColumn": 95,
-                    "endOffset": 123946
+                    "endOffset": 123944
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -9070,9 +9070,9 @@
                 "to": {
                     "startLine": 1667,
                     "startColumn": 4,
-                    "startOffset": 123951,
+                    "startOffset": 123949,
                     "endColumn": 111,
-                    "endOffset": 124058
+                    "endOffset": 124056
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -9089,10 +9089,10 @@
                 "to": {
                     "startLine": 1668,
                     "startColumn": 4,
-                    "startOffset": 124063,
+                    "startOffset": 124061,
                     "endLine": 1669,
                     "endColumn": 12,
-                    "endOffset": 124198
+                    "endOffset": 124196
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -9110,9 +9110,9 @@
                 "to": {
                     "startLine": 1670,
                     "startColumn": 4,
-                    "startOffset": 124203,
+                    "startOffset": 124201,
                     "endColumn": 135,
-                    "endOffset": 124334
+                    "endOffset": 124332
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -9129,10 +9129,10 @@
                 "to": {
                     "startLine": 1671,
                     "startColumn": 4,
-                    "startOffset": 124339,
+                    "startOffset": 124337,
                     "endLine": 1672,
                     "endColumn": 12,
-                    "endOffset": 124498
+                    "endOffset": 124496
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -9150,9 +9150,9 @@
                 "to": {
                     "startLine": 1673,
                     "startColumn": 4,
-                    "startOffset": 124503,
+                    "startOffset": 124501,
                     "endColumn": 129,
-                    "endOffset": 124628
+                    "endOffset": 124626
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -9169,10 +9169,10 @@
                 "to": {
                     "startLine": 1674,
                     "startColumn": 4,
-                    "startOffset": 124633,
+                    "startOffset": 124631,
                     "endLine": 1675,
                     "endColumn": 12,
-                    "endOffset": 124786
+                    "endOffset": 124784
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -9190,10 +9190,10 @@
                 "to": {
                     "startLine": 1676,
                     "startColumn": 4,
-                    "startOffset": 124791,
+                    "startOffset": 124789,
                     "endLine": 1677,
                     "endColumn": 12,
-                    "endOffset": 124936
+                    "endOffset": 124934
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -9211,9 +9211,9 @@
                 "to": {
                     "startLine": 1678,
                     "startColumn": 4,
-                    "startOffset": 124941,
+                    "startOffset": 124939,
                     "endColumn": 140,
-                    "endOffset": 125077
+                    "endOffset": 125075
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -9230,10 +9230,10 @@
                 "to": {
                     "startLine": 1679,
                     "startColumn": 4,
-                    "startOffset": 125082,
+                    "startOffset": 125080,
                     "endLine": 1680,
                     "endColumn": 12,
-                    "endOffset": 125221
+                    "endOffset": 125219
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -9251,9 +9251,9 @@
                 "to": {
                     "startLine": 1681,
                     "startColumn": 4,
-                    "startOffset": 125226,
+                    "startOffset": 125224,
                     "endColumn": 134,
-                    "endOffset": 125356
+                    "endOffset": 125354
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -9270,9 +9270,9 @@
                 "to": {
                     "startLine": 1682,
                     "startColumn": 4,
-                    "startOffset": 125361,
+                    "startOffset": 125359,
                     "endColumn": 111,
-                    "endOffset": 125468
+                    "endOffset": 125466
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -9289,9 +9289,9 @@
                 "to": {
                     "startLine": 1683,
                     "startColumn": 4,
-                    "startOffset": 125473,
+                    "startOffset": 125471,
                     "endColumn": 149,
-                    "endOffset": 125618
+                    "endOffset": 125616
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -9308,9 +9308,9 @@
                 "to": {
                     "startLine": 1684,
                     "startColumn": 4,
-                    "startOffset": 125623,
+                    "startOffset": 125621,
                     "endColumn": 127,
-                    "endOffset": 125746
+                    "endOffset": 125744
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -9327,9 +9327,9 @@
                 "to": {
                     "startLine": 1685,
                     "startColumn": 4,
-                    "startOffset": 125751,
+                    "startOffset": 125749,
                     "endColumn": 127,
-                    "endOffset": 125874
+                    "endOffset": 125872
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -9346,10 +9346,10 @@
                 "to": {
                     "startLine": 1686,
                     "startColumn": 4,
-                    "startOffset": 125879,
+                    "startOffset": 125877,
                     "endLine": 1687,
                     "endColumn": 12,
-                    "endOffset": 126010
+                    "endOffset": 126008
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -9367,9 +9367,9 @@
                 "to": {
                     "startLine": 1688,
                     "startColumn": 4,
-                    "startOffset": 126015,
+                    "startOffset": 126013,
                     "endColumn": 131,
-                    "endOffset": 126142
+                    "endOffset": 126140
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -9386,9 +9386,9 @@
                 "to": {
                     "startLine": 1689,
                     "startColumn": 4,
-                    "startOffset": 126147,
+                    "startOffset": 126145,
                     "endColumn": 129,
-                    "endOffset": 126272
+                    "endOffset": 126270
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -9405,9 +9405,9 @@
                 "to": {
                     "startLine": 1690,
                     "startColumn": 4,
-                    "startOffset": 126277,
+                    "startOffset": 126275,
                     "endColumn": 129,
-                    "endOffset": 126402
+                    "endOffset": 126400
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -9424,9 +9424,9 @@
                 "to": {
                     "startLine": 1691,
                     "startColumn": 4,
-                    "startOffset": 126407,
+                    "startOffset": 126405,
                     "endColumn": 111,
-                    "endOffset": 126514
+                    "endOffset": 126512
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -9443,9 +9443,9 @@
                 "to": {
                     "startLine": 1692,
                     "startColumn": 4,
-                    "startOffset": 126519,
+                    "startOffset": 126517,
                     "endColumn": 139,
-                    "endOffset": 126654
+                    "endOffset": 126652
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -9462,9 +9462,9 @@
                 "to": {
                     "startLine": 1693,
                     "startColumn": 4,
-                    "startOffset": 126659,
+                    "startOffset": 126657,
                     "endColumn": 67,
-                    "endOffset": 126722
+                    "endOffset": 126720
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -9481,9 +9481,9 @@
                 "to": {
                     "startLine": 1694,
                     "startColumn": 4,
-                    "startOffset": 126727,
+                    "startOffset": 126725,
                     "endColumn": 72,
-                    "endOffset": 126795
+                    "endOffset": 126793
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -9500,9 +9500,9 @@
                 "to": {
                     "startLine": 1695,
                     "startColumn": 4,
-                    "startOffset": 126800,
+                    "startOffset": 126798,
                     "endColumn": 73,
-                    "endOffset": 126869
+                    "endOffset": 126867
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -9519,9 +9519,9 @@
                 "to": {
                     "startLine": 1696,
                     "startColumn": 4,
-                    "startOffset": 126874,
+                    "startOffset": 126872,
                     "endColumn": 72,
-                    "endOffset": 126942
+                    "endOffset": 126940
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -9538,9 +9538,9 @@
                 "to": {
                     "startLine": 1697,
                     "startColumn": 4,
-                    "startOffset": 126947,
+                    "startOffset": 126945,
                     "endColumn": 73,
-                    "endOffset": 127016
+                    "endOffset": 127014
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -9557,10 +9557,10 @@
                 "to": {
                     "startLine": 1698,
                     "startColumn": 4,
-                    "startOffset": 127021,
+                    "startOffset": 127019,
                     "endLine": 1699,
                     "endColumn": 12,
-                    "endOffset": 127162
+                    "endOffset": 127160
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -9578,10 +9578,10 @@
                 "to": {
                     "startLine": 1700,
                     "startColumn": 4,
-                    "startOffset": 127167,
+                    "startOffset": 127165,
                     "endLine": 1701,
                     "endColumn": 12,
-                    "endOffset": 127306
+                    "endOffset": 127304
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -9599,10 +9599,10 @@
                 "to": {
                     "startLine": 1702,
                     "startColumn": 4,
-                    "startOffset": 127311,
+                    "startOffset": 127309,
                     "endLine": 1703,
                     "endColumn": 12,
-                    "endOffset": 127444
+                    "endOffset": 127442
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -9620,9 +9620,9 @@
                 "to": {
                     "startLine": 1704,
                     "startColumn": 4,
-                    "startOffset": 127449,
+                    "startOffset": 127447,
                     "endColumn": 65,
-                    "endOffset": 127510
+                    "endOffset": 127508
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -9639,9 +9639,9 @@
                 "to": {
                     "startLine": 1705,
                     "startColumn": 4,
-                    "startOffset": 127515,
+                    "startOffset": 127513,
                     "endColumn": 89,
-                    "endOffset": 127600
+                    "endOffset": 127598
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -9658,9 +9658,9 @@
                 "to": {
                     "startLine": 1706,
                     "startColumn": 4,
-                    "startOffset": 127605,
+                    "startOffset": 127603,
                     "endColumn": 75,
-                    "endOffset": 127676
+                    "endOffset": 127674
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -9677,9 +9677,9 @@
                 "to": {
                     "startLine": 1707,
                     "startColumn": 4,
-                    "startOffset": 127681,
+                    "startOffset": 127679,
                     "endColumn": 103,
-                    "endOffset": 127780
+                    "endOffset": 127778
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -9696,9 +9696,9 @@
                 "to": {
                     "startLine": 1708,
                     "startColumn": 4,
-                    "startOffset": 127785,
+                    "startOffset": 127783,
                     "endColumn": 89,
-                    "endOffset": 127870
+                    "endOffset": 127868
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -9715,9 +9715,9 @@
                 "to": {
                     "startLine": 1709,
                     "startColumn": 4,
-                    "startOffset": 127875,
+                    "startOffset": 127873,
                     "endColumn": 101,
-                    "endOffset": 127972
+                    "endOffset": 127970
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -9734,9 +9734,9 @@
                 "to": {
                     "startLine": 1710,
                     "startColumn": 4,
-                    "startOffset": 127977,
+                    "startOffset": 127975,
                     "endColumn": 107,
-                    "endOffset": 128080
+                    "endOffset": 128078
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -9753,9 +9753,9 @@
                 "to": {
                     "startLine": 1711,
                     "startColumn": 4,
-                    "startOffset": 128085,
+                    "startOffset": 128083,
                     "endColumn": 107,
-                    "endOffset": 128188
+                    "endOffset": 128186
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -9772,9 +9772,9 @@
                 "to": {
                     "startLine": 1712,
                     "startColumn": 4,
-                    "startOffset": 128193,
+                    "startOffset": 128191,
                     "endColumn": 99,
-                    "endOffset": 128288
+                    "endOffset": 128286
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -9791,9 +9791,9 @@
                 "to": {
                     "startLine": 1713,
                     "startColumn": 4,
-                    "startOffset": 128293,
+                    "startOffset": 128291,
                     "endColumn": 79,
-                    "endOffset": 128368
+                    "endOffset": 128366
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -9810,9 +9810,9 @@
                 "to": {
                     "startLine": 1714,
                     "startColumn": 4,
-                    "startOffset": 128373,
+                    "startOffset": 128371,
                     "endColumn": 91,
-                    "endOffset": 128460
+                    "endOffset": 128458
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -9829,9 +9829,9 @@
                 "to": {
                     "startLine": 1715,
                     "startColumn": 4,
-                    "startOffset": 128465,
+                    "startOffset": 128463,
                     "endColumn": 97,
-                    "endOffset": 128558
+                    "endOffset": 128556
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -9848,10 +9848,10 @@
                 "to": {
                     "startLine": 1716,
                     "startColumn": 4,
-                    "startOffset": 128563,
+                    "startOffset": 128561,
                     "endLine": 1717,
                     "endColumn": 12,
-                    "endOffset": 128668
+                    "endOffset": 128666
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -9869,9 +9869,9 @@
                 "to": {
                     "startLine": 1718,
                     "startColumn": 4,
-                    "startOffset": 128673,
+                    "startOffset": 128671,
                     "endColumn": 77,
-                    "endOffset": 128746
+                    "endOffset": 128744
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -9888,9 +9888,9 @@
                 "to": {
                     "startLine": 1719,
                     "startColumn": 4,
-                    "startOffset": 128751,
+                    "startOffset": 128749,
                     "endColumn": 105,
-                    "endOffset": 128852
+                    "endOffset": 128850
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -9907,9 +9907,9 @@
                 "to": {
                     "startLine": 1720,
                     "startColumn": 4,
-                    "startOffset": 128857,
+                    "startOffset": 128855,
                     "endColumn": 91,
-                    "endOffset": 128944
+                    "endOffset": 128942
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -9926,9 +9926,9 @@
                 "to": {
                     "startLine": 1721,
                     "startColumn": 4,
-                    "startOffset": 128949,
+                    "startOffset": 128947,
                     "endColumn": 103,
-                    "endOffset": 129048
+                    "endOffset": 129046
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -9945,9 +9945,9 @@
                 "to": {
                     "startLine": 1722,
                     "startColumn": 4,
-                    "startOffset": 129053,
+                    "startOffset": 129051,
                     "endColumn": 109,
-                    "endOffset": 129158
+                    "endOffset": 129156
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -9964,10 +9964,10 @@
                 "to": {
                     "startLine": 1723,
                     "startColumn": 4,
-                    "startOffset": 129163,
+                    "startOffset": 129161,
                     "endLine": 1724,
                     "endColumn": 12,
-                    "endOffset": 129280
+                    "endOffset": 129278
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -9985,10 +9985,10 @@
                 "to": {
                     "startLine": 1725,
                     "startColumn": 4,
-                    "startOffset": 129285,
+                    "startOffset": 129283,
                     "endLine": 1728,
                     "endColumn": 12,
-                    "endOffset": 129443
+                    "endOffset": 129441
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -10006,10 +10006,10 @@
                 "to": {
                     "startLine": 1729,
                     "startColumn": 4,
-                    "startOffset": 129448,
+                    "startOffset": 129446,
                     "endLine": 1732,
                     "endColumn": 12,
-                    "endOffset": 129600
+                    "endOffset": 129598
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -10027,9 +10027,9 @@
                 "to": {
                     "startLine": 1733,
                     "startColumn": 4,
-                    "startOffset": 129605,
+                    "startOffset": 129603,
                     "endColumn": 79,
-                    "endOffset": 129680
+                    "endOffset": 129678
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -10046,9 +10046,9 @@
                 "to": {
                     "startLine": 1734,
                     "startColumn": 4,
-                    "startOffset": 129685,
+                    "startOffset": 129683,
                     "endColumn": 99,
-                    "endOffset": 129780
+                    "endOffset": 129778
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -10065,9 +10065,9 @@
                 "to": {
                     "startLine": 1735,
                     "startColumn": 4,
-                    "startOffset": 129785,
+                    "startOffset": 129783,
                     "endColumn": 89,
-                    "endOffset": 129870
+                    "endOffset": 129868
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -10084,9 +10084,9 @@
                 "to": {
                     "startLine": 1736,
                     "startColumn": 4,
-                    "startOffset": 129875,
+                    "startOffset": 129873,
                     "endColumn": 109,
-                    "endOffset": 129980
+                    "endOffset": 129978
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -10103,9 +10103,9 @@
                 "to": {
                     "startLine": 1737,
                     "startColumn": 4,
-                    "startOffset": 129985,
+                    "startOffset": 129983,
                     "endColumn": 93,
-                    "endOffset": 130074
+                    "endOffset": 130072
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -10122,9 +10122,9 @@
                 "to": {
                     "startLine": 1738,
                     "startColumn": 4,
-                    "startOffset": 130079,
+                    "startOffset": 130077,
                     "endColumn": 105,
-                    "endOffset": 130180
+                    "endOffset": 130178
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -10141,9 +10141,9 @@
                 "to": {
                     "startLine": 1739,
                     "startColumn": 4,
-                    "startOffset": 130185,
+                    "startOffset": 130183,
                     "endColumn": 91,
-                    "endOffset": 130272
+                    "endOffset": 130270
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -10160,10 +10160,10 @@
                 "to": {
                     "startLine": 1740,
                     "startColumn": 4,
-                    "startOffset": 130277,
+                    "startOffset": 130275,
                     "endLine": 1741,
                     "endColumn": 12,
-                    "endOffset": 130372
+                    "endOffset": 130370
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -10181,10 +10181,10 @@
                 "to": {
                     "startLine": 1742,
                     "startColumn": 4,
-                    "startOffset": 130377,
+                    "startOffset": 130375,
                     "endLine": 1743,
                     "endColumn": 12,
-                    "endOffset": 130484
+                    "endOffset": 130482
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -10202,10 +10202,10 @@
                 "to": {
                     "startLine": 1744,
                     "startColumn": 4,
-                    "startOffset": 130489,
+                    "startOffset": 130487,
                     "endLine": 1745,
                     "endColumn": 12,
-                    "endOffset": 130598
+                    "endOffset": 130596
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -10223,10 +10223,10 @@
                 "to": {
                     "startLine": 1746,
                     "startColumn": 4,
-                    "startOffset": 130603,
+                    "startOffset": 130601,
                     "endLine": 1747,
                     "endColumn": 12,
-                    "endOffset": 130714
+                    "endOffset": 130712
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -10244,10 +10244,10 @@
                 "to": {
                     "startLine": 1748,
                     "startColumn": 4,
-                    "startOffset": 130719,
+                    "startOffset": 130717,
                     "endLine": 1749,
                     "endColumn": 12,
-                    "endOffset": 130830
+                    "endOffset": 130828
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -10265,9 +10265,9 @@
                 "to": {
                     "startLine": 1750,
                     "startColumn": 4,
-                    "startOffset": 130835,
+                    "startOffset": 130833,
                     "endColumn": 93,
-                    "endOffset": 130924
+                    "endOffset": 130922
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -10284,9 +10284,9 @@
                 "to": {
                     "startLine": 1751,
                     "startColumn": 4,
-                    "startOffset": 130929,
+                    "startOffset": 130927,
                     "endColumn": 113,
-                    "endOffset": 131038
+                    "endOffset": 131036
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -10303,9 +10303,9 @@
                 "to": {
                     "startLine": 1752,
                     "startColumn": 4,
-                    "startOffset": 131043,
+                    "startOffset": 131041,
                     "endColumn": 111,
-                    "endOffset": 131150
+                    "endOffset": 131148
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -10322,10 +10322,10 @@
                 "to": {
                     "startLine": 1753,
                     "startColumn": 4,
-                    "startOffset": 131155,
+                    "startOffset": 131153,
                     "endLine": 1754,
                     "endColumn": 12,
-                    "endOffset": 131252
+                    "endOffset": 131250
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -10343,10 +10343,10 @@
                 "to": {
                     "startLine": 1755,
                     "startColumn": 4,
-                    "startOffset": 131257,
+                    "startOffset": 131255,
                     "endLine": 1756,
                     "endColumn": 12,
-                    "endOffset": 131372
+                    "endOffset": 131370
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -10364,10 +10364,10 @@
                 "to": {
                     "startLine": 1757,
                     "startColumn": 4,
-                    "startOffset": 131377,
+                    "startOffset": 131375,
                     "endLine": 1758,
                     "endColumn": 12,
-                    "endOffset": 131494
+                    "endOffset": 131492
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -10385,9 +10385,9 @@
                 "to": {
                     "startLine": 1759,
                     "startColumn": 4,
-                    "startOffset": 131499,
+                    "startOffset": 131497,
                     "endColumn": 81,
-                    "endOffset": 131576
+                    "endOffset": 131574
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -10404,9 +10404,9 @@
                 "to": {
                     "startLine": 1760,
                     "startColumn": 4,
-                    "startOffset": 131581,
+                    "startOffset": 131579,
                     "endColumn": 103,
-                    "endOffset": 131680
+                    "endOffset": 131678
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -10423,9 +10423,9 @@
                 "to": {
                     "startLine": 1761,
                     "startColumn": 4,
-                    "startOffset": 131685,
+                    "startOffset": 131683,
                     "endColumn": 119,
-                    "endOffset": 131800
+                    "endOffset": 131798
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -10442,9 +10442,9 @@
                 "to": {
                     "startLine": 1762,
                     "startColumn": 4,
-                    "startOffset": 131805,
+                    "startOffset": 131803,
                     "endColumn": 125,
-                    "endOffset": 131926
+                    "endOffset": 131924
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -10461,9 +10461,9 @@
                 "to": {
                     "startLine": 1763,
                     "startColumn": 4,
-                    "startOffset": 131931,
+                    "startOffset": 131929,
                     "endColumn": 97,
-                    "endOffset": 132024
+                    "endOffset": 132022
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -10480,9 +10480,9 @@
                 "to": {
                     "startLine": 1764,
                     "startColumn": 4,
-                    "startOffset": 132029,
+                    "startOffset": 132027,
                     "endColumn": 93,
-                    "endOffset": 132118
+                    "endOffset": 132116
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -10499,9 +10499,9 @@
                 "to": {
                     "startLine": 1765,
                     "startColumn": 4,
-                    "startOffset": 132123,
+                    "startOffset": 132121,
                     "endColumn": 87,
-                    "endOffset": 132206
+                    "endOffset": 132204
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -10518,9 +10518,9 @@
                 "to": {
                     "startLine": 1766,
                     "startColumn": 4,
-                    "startOffset": 132211,
+                    "startOffset": 132209,
                     "endColumn": 111,
-                    "endOffset": 132318
+                    "endOffset": 132316
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -10537,9 +10537,9 @@
                 "to": {
                     "startLine": 1767,
                     "startColumn": 4,
-                    "startOffset": 132323,
+                    "startOffset": 132321,
                     "endColumn": 115,
-                    "endOffset": 132434
+                    "endOffset": 132432
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -10556,9 +10556,9 @@
                 "to": {
                     "startLine": 1768,
                     "startColumn": 4,
-                    "startOffset": 132439,
+                    "startOffset": 132437,
                     "endColumn": 121,
-                    "endOffset": 132556
+                    "endOffset": 132554
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -10575,9 +10575,9 @@
                 "to": {
                     "startLine": 1769,
                     "startColumn": 4,
-                    "startOffset": 132561,
+                    "startOffset": 132559,
                     "endColumn": 111,
-                    "endOffset": 132668
+                    "endOffset": 132666
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -10594,10 +10594,10 @@
                 "to": {
                     "startLine": 1770,
                     "startColumn": 4,
-                    "startOffset": 132673,
+                    "startOffset": 132671,
                     "endLine": 1772,
                     "endColumn": 12,
-                    "endOffset": 132843
+                    "endOffset": 132841
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -10615,9 +10615,9 @@
                 "to": {
                     "startLine": 1773,
                     "startColumn": 4,
-                    "startOffset": 132848,
+                    "startOffset": 132846,
                     "endColumn": 115,
-                    "endOffset": 132959
+                    "endOffset": 132957
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -10634,9 +10634,9 @@
                 "to": {
                     "startLine": 1774,
                     "startColumn": 4,
-                    "startOffset": 132964,
+                    "startOffset": 132962,
                     "endColumn": 85,
-                    "endOffset": 133045
+                    "endOffset": 133043
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -10653,9 +10653,9 @@
                 "to": {
                     "startLine": 1775,
                     "startColumn": 4,
-                    "startOffset": 133050,
+                    "startOffset": 133048,
                     "endColumn": 91,
-                    "endOffset": 133137
+                    "endOffset": 133135
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -10672,10 +10672,10 @@
                 "to": {
                     "startLine": 1776,
                     "startColumn": 4,
-                    "startOffset": 133142,
+                    "startOffset": 133140,
                     "endLine": 1777,
                     "endColumn": 12,
-                    "endOffset": 133249
+                    "endOffset": 133247
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -10693,10 +10693,10 @@
                 "to": {
                     "startLine": 1778,
                     "startColumn": 4,
-                    "startOffset": 133254,
+                    "startOffset": 133252,
                     "endLine": 1779,
                     "endColumn": 12,
-                    "endOffset": 133373
+                    "endOffset": 133371
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -10714,9 +10714,9 @@
                 "to": {
                     "startLine": 1780,
                     "startColumn": 4,
-                    "startOffset": 133378,
+                    "startOffset": 133376,
                     "endColumn": 66,
-                    "endOffset": 133440
+                    "endOffset": 133438
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -10733,10 +10733,10 @@
                 "to": {
                     "startLine": 1781,
                     "startColumn": 4,
-                    "startOffset": 133445,
+                    "startOffset": 133443,
                     "endLine": 1782,
                     "endColumn": 12,
-                    "endOffset": 133566
+                    "endOffset": 133564
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -10754,9 +10754,9 @@
                 "to": {
                     "startLine": 1783,
                     "startColumn": 4,
-                    "startOffset": 133571,
+                    "startOffset": 133569,
                     "endColumn": 67,
-                    "endOffset": 133634
+                    "endOffset": 133632
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -10773,10 +10773,10 @@
                 "to": {
                     "startLine": 1784,
                     "startColumn": 4,
-                    "startOffset": 133639,
+                    "startOffset": 133637,
                     "endLine": 1785,
                     "endColumn": 12,
-                    "endOffset": 133762
+                    "endOffset": 133760
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -10794,10 +10794,10 @@
                 "to": {
                     "startLine": 1786,
                     "startColumn": 4,
-                    "startOffset": 133767,
+                    "startOffset": 133765,
                     "endLine": 1787,
                     "endColumn": 12,
-                    "endOffset": 133906
+                    "endOffset": 133904
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -10815,10 +10815,10 @@
                 "to": {
                     "startLine": 1788,
                     "startColumn": 4,
-                    "startOffset": 133911,
+                    "startOffset": 133909,
                     "endLine": 1789,
                     "endColumn": 12,
-                    "endOffset": 134034
+                    "endOffset": 134032
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -10836,9 +10836,9 @@
                 "to": {
                     "startLine": 1790,
                     "startColumn": 4,
-                    "startOffset": 134039,
+                    "startOffset": 134037,
                     "endColumn": 68,
-                    "endOffset": 134103
+                    "endOffset": 134101
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -10855,9 +10855,9 @@
                 "to": {
                     "startLine": 1791,
                     "startColumn": 4,
-                    "startOffset": 134108,
+                    "startOffset": 134106,
                     "endColumn": 94,
-                    "endOffset": 134198
+                    "endOffset": 134196
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -10874,9 +10874,9 @@
                 "to": {
                     "startLine": 1792,
                     "startColumn": 4,
-                    "startOffset": 134203,
+                    "startOffset": 134201,
                     "endColumn": 114,
-                    "endOffset": 134313
+                    "endOffset": 134311
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -10893,9 +10893,9 @@
                 "to": {
                     "startLine": 1793,
                     "startColumn": 4,
-                    "startOffset": 134318,
+                    "startOffset": 134316,
                     "endColumn": 112,
-                    "endOffset": 134426
+                    "endOffset": 134424
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -10912,9 +10912,9 @@
                 "to": {
                     "startLine": 1794,
                     "startColumn": 4,
-                    "startOffset": 134431,
+                    "startOffset": 134429,
                     "endColumn": 98,
-                    "endOffset": 134525
+                    "endOffset": 134523
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -10931,9 +10931,9 @@
                 "to": {
                     "startLine": 1795,
                     "startColumn": 4,
-                    "startOffset": 134530,
+                    "startOffset": 134528,
                     "endColumn": 108,
-                    "endOffset": 134634
+                    "endOffset": 134632
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -10950,9 +10950,9 @@
                 "to": {
                     "startLine": 1796,
                     "startColumn": 4,
-                    "startOffset": 134639,
+                    "startOffset": 134637,
                     "endColumn": 110,
-                    "endOffset": 134745
+                    "endOffset": 134743
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -10969,9 +10969,9 @@
                 "to": {
                     "startLine": 1797,
                     "startColumn": 4,
-                    "startOffset": 134750,
+                    "startOffset": 134748,
                     "endColumn": 110,
-                    "endOffset": 134856
+                    "endOffset": 134854
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -10988,9 +10988,9 @@
                 "to": {
                     "startLine": 1798,
                     "startColumn": 4,
-                    "startOffset": 134861,
+                    "startOffset": 134859,
                     "endColumn": 100,
-                    "endOffset": 134957
+                    "endOffset": 134955
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -11007,9 +11007,9 @@
                 "to": {
                     "startLine": 1799,
                     "startColumn": 4,
-                    "startOffset": 134962,
+                    "startOffset": 134960,
                     "endColumn": 104,
-                    "endOffset": 135062
+                    "endOffset": 135060
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -11026,9 +11026,9 @@
                 "to": {
                     "startLine": 1800,
                     "startColumn": 4,
-                    "startOffset": 135067,
+                    "startOffset": 135065,
                     "endColumn": 99,
-                    "endOffset": 135162
+                    "endOffset": 135160
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -11045,10 +11045,10 @@
                 "to": {
                     "startLine": 1801,
                     "startColumn": 4,
-                    "startOffset": 135167,
+                    "startOffset": 135165,
                     "endLine": 1802,
                     "endColumn": 12,
-                    "endOffset": 135292
+                    "endOffset": 135290
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -11066,9 +11066,9 @@
                 "to": {
                     "startLine": 1803,
                     "startColumn": 4,
-                    "startOffset": 135297,
+                    "startOffset": 135295,
                     "endColumn": 90,
-                    "endOffset": 135383
+                    "endOffset": 135381
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -11085,9 +11085,9 @@
                 "to": {
                     "startLine": 1804,
                     "startColumn": 4,
-                    "startOffset": 135388,
+                    "startOffset": 135386,
                     "endColumn": 122,
-                    "endOffset": 135506
+                    "endOffset": 135504
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -11104,9 +11104,9 @@
                 "to": {
                     "startLine": 1805,
                     "startColumn": 4,
-                    "startOffset": 135511,
+                    "startOffset": 135509,
                     "endColumn": 93,
-                    "endOffset": 135600
+                    "endOffset": 135598
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -11123,10 +11123,10 @@
                 "to": {
                     "startLine": 1806,
                     "startColumn": 4,
-                    "startOffset": 135605,
+                    "startOffset": 135603,
                     "endLine": 1807,
                     "endColumn": 12,
-                    "endOffset": 135712
+                    "endOffset": 135710
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -11144,9 +11144,9 @@
                 "to": {
                     "startLine": 1808,
                     "startColumn": 4,
-                    "startOffset": 135717,
+                    "startOffset": 135715,
                     "endColumn": 85,
-                    "endOffset": 135798
+                    "endOffset": 135796
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -11163,9 +11163,9 @@
                 "to": {
                     "startLine": 1809,
                     "startColumn": 4,
-                    "startOffset": 135803,
+                    "startOffset": 135801,
                     "endColumn": 103,
-                    "endOffset": 135902
+                    "endOffset": 135900
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -11182,9 +11182,9 @@
                 "to": {
                     "startLine": 1810,
                     "startColumn": 4,
-                    "startOffset": 135907,
+                    "startOffset": 135905,
                     "endColumn": 95,
-                    "endOffset": 135998
+                    "endOffset": 135996
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -11201,9 +11201,9 @@
                 "to": {
                     "startLine": 1811,
                     "startColumn": 4,
-                    "startOffset": 136003,
+                    "startOffset": 136001,
                     "endColumn": 74,
-                    "endOffset": 136073
+                    "endOffset": 136071
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -11220,9 +11220,9 @@
                 "to": {
                     "startLine": 1812,
                     "startColumn": 4,
-                    "startOffset": 136078,
+                    "startOffset": 136076,
                     "endColumn": 69,
-                    "endOffset": 136143
+                    "endOffset": 136141
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -11239,9 +11239,9 @@
                 "to": {
                     "startLine": 1813,
                     "startColumn": 4,
-                    "startOffset": 136148,
+                    "startOffset": 136146,
                     "endColumn": 87,
-                    "endOffset": 136231
+                    "endOffset": 136229
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -11258,10 +11258,10 @@
                 "to": {
                     "startLine": 1814,
                     "startColumn": 4,
-                    "startOffset": 136236,
+                    "startOffset": 136234,
                     "endLine": 1815,
                     "endColumn": 12,
-                    "endOffset": 136349
+                    "endOffset": 136347
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -11279,10 +11279,10 @@
                 "to": {
                     "startLine": 1816,
                     "startColumn": 4,
-                    "startOffset": 136354,
+                    "startOffset": 136352,
                     "endLine": 1817,
                     "endColumn": 12,
-                    "endOffset": 136453
+                    "endOffset": 136451
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -11300,10 +11300,10 @@
                 "to": {
                     "startLine": 1818,
                     "startColumn": 4,
-                    "startOffset": 136458,
+                    "startOffset": 136456,
                     "endLine": 1819,
                     "endColumn": 12,
-                    "endOffset": 136557
+                    "endOffset": 136555
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -11321,10 +11321,10 @@
                 "to": {
                     "startLine": 1820,
                     "startColumn": 4,
-                    "startOffset": 136562,
+                    "startOffset": 136560,
                     "endLine": 1821,
                     "endColumn": 12,
-                    "endOffset": 136683
+                    "endOffset": 136681
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -11342,9 +11342,9 @@
                 "to": {
                     "startLine": 1822,
                     "startColumn": 4,
-                    "startOffset": 136688,
+                    "startOffset": 136686,
                     "endColumn": 87,
-                    "endOffset": 136771
+                    "endOffset": 136769
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -11361,9 +11361,9 @@
                 "to": {
                     "startLine": 1823,
                     "startColumn": 4,
-                    "startOffset": 136776,
+                    "startOffset": 136774,
                     "endColumn": 107,
-                    "endOffset": 136879
+                    "endOffset": 136877
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -11380,9 +11380,9 @@
                 "to": {
                     "startLine": 1824,
                     "startColumn": 4,
-                    "startOffset": 136884,
+                    "startOffset": 136882,
                     "endColumn": 99,
-                    "endOffset": 136979
+                    "endOffset": 136977
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -11399,9 +11399,9 @@
                 "to": {
                     "startLine": 1825,
                     "startColumn": 4,
-                    "startOffset": 136984,
+                    "startOffset": 136982,
                     "endColumn": 89,
-                    "endOffset": 137069
+                    "endOffset": 137067
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -11418,9 +11418,9 @@
                 "to": {
                     "startLine": 1826,
                     "startColumn": 4,
-                    "startOffset": 137074,
+                    "startOffset": 137072,
                     "endColumn": 109,
-                    "endOffset": 137179
+                    "endOffset": 137177
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -11437,9 +11437,9 @@
                 "to": {
                     "startLine": 1827,
                     "startColumn": 4,
-                    "startOffset": 137184,
+                    "startOffset": 137182,
                     "endColumn": 83,
-                    "endOffset": 137263
+                    "endOffset": 137261
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -11456,9 +11456,9 @@
                 "to": {
                     "startLine": 1828,
                     "startColumn": 4,
-                    "startOffset": 137268,
+                    "startOffset": 137266,
                     "endColumn": 101,
-                    "endOffset": 137365
+                    "endOffset": 137363
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -11475,9 +11475,9 @@
                 "to": {
                     "startLine": 1829,
                     "startColumn": 4,
-                    "startOffset": 137370,
+                    "startOffset": 137368,
                     "endColumn": 83,
-                    "endOffset": 137449
+                    "endOffset": 137447
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -11494,9 +11494,9 @@
                 "to": {
                     "startLine": 1830,
                     "startColumn": 4,
-                    "startOffset": 137454,
+                    "startOffset": 137452,
                     "endColumn": 53,
-                    "endOffset": 137503
+                    "endOffset": 137501
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -11513,9 +11513,9 @@
                 "to": {
                     "startLine": 1831,
                     "startColumn": 4,
-                    "startOffset": 137508,
+                    "startOffset": 137506,
                     "endColumn": 63,
-                    "endOffset": 137567
+                    "endOffset": 137565
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -11532,9 +11532,9 @@
                 "to": {
                     "startLine": 1832,
                     "startColumn": 4,
-                    "startOffset": 137572,
+                    "startOffset": 137570,
                     "endColumn": 105,
-                    "endOffset": 137673
+                    "endOffset": 137671
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -11551,9 +11551,9 @@
                 "to": {
                     "startLine": 1833,
                     "startColumn": 4,
-                    "startOffset": 137678,
+                    "startOffset": 137676,
                     "endColumn": 109,
-                    "endOffset": 137783
+                    "endOffset": 137781
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -11570,9 +11570,9 @@
                 "to": {
                     "startLine": 1834,
                     "startColumn": 4,
-                    "startOffset": 137788,
+                    "startOffset": 137786,
                     "endColumn": 83,
-                    "endOffset": 137867
+                    "endOffset": 137865
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",
@@ -11589,9 +11589,9 @@
                 "to": {
                     "startLine": 1835,
                     "startColumn": 4,
-                    "startOffset": 137872,
+                    "startOffset": 137870,
                     "endColumn": 119,
-                    "endOffset": 137987
+                    "endOffset": 137985
                 },
                 "from": {
                     "file": "C:\\Users\\kotha\\.android\\build-cache\\6a3388dd2a42314838467d224a8cad3ecc020f66\\output\\res\\values\\values.xml",

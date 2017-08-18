@@ -10,7 +10,7 @@ import android.view.animation.TranslateAnimation;
  */
 public class FlowAnimations extends Animation {
     private AnimationStyle style;
-    private long duration;
+    private long duration=1000;
     private  long delay;
     private  View view;
     private  TranslateAnimation anim;
@@ -72,6 +72,7 @@ public class FlowAnimations extends Animation {
         this.delay = delay;
     }
 
+    @Override
     public void setDuration(long duration) {
         anim.setDuration(duration);
     }
