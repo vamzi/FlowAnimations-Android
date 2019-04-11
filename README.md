@@ -27,7 +27,7 @@ Step 2. Add the dependency
 
 ```sh
 dependencies {
-	        compile 'com.github.vamzi:FlowAnimations-Android:0.2.0'
+	        implementation 'com.github.vamzi:FlowAnimations-Android:0.2.0'
 	}
 ```
 
